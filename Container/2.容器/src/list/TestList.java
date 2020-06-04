@@ -7,6 +7,7 @@ import java.util.List;
  * List 接口:
  * 父接口为 Collection
  * 实现类为:ArrayList LinkedList Vector
+ * List 特点: 1.有序 2.重复 3.速度块 4.插入删除慢 5.线程不安全
  * @Author: Harlan
  * @Date: 2020/6/4 14:58
  */
