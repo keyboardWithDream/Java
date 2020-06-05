@@ -41,11 +41,6 @@ public class SxtLinkedList<E> {
     }
 
 
-    /**
-     * 插入节点
-     * @param index 索引
-     * @param e 泛型
-     */
     public void  add(int index,E e){
         Node node = new Node(e);
         Node temp;
@@ -58,7 +53,6 @@ public class SxtLinkedList<E> {
         }else if (index == size - 1){
             node.previous = last.previous;
             last.previous.next = node;
-            node.next = last;
             last.next = null;
         }else if (index < size >> 1){
             temp = first;
@@ -137,6 +131,7 @@ public class SxtLinkedList<E> {
             temp.next.previous = temp.previous;
         } else {
             temp = last;
+
             count = size - 1;
             while (count > index){
                 temp = temp.previous;
