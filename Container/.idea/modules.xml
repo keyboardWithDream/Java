@@ -3,8 +3,16 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/0.1实现ArrayList/0.1实现ArrayList.iml" filepath="$PROJECT_DIR$/0.1实现ArrayList/0.1实现ArrayList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/0.2实现LinkedeList/0.2实现LinkedeList.iml" filepath="$PROJECT_DIR$/0.2实现LinkedeList/0.2实现LinkedeList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/0.3实现HashMap/0.3实现HashMap.iml" filepath="$PROJECT_DIR$/0.3实现HashMap/0.3实现HashMap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/0.4实现HashSet/0.4实现HashSet.iml" filepath="$PROJECT_DIR$/0.4实现HashSet/0.4实现HashSet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/0.5表格数据的存储/0.5表格数据的存储.iml" filepath="$PROJECT_DIR$/0.5表格数据的存储/0.5表格数据的存储.iml" />
       <module fileurl="file://$PROJECT_DIR$/1.泛型/1.泛型.iml" filepath="$PROJECT_DIR$/1.泛型/1.泛型.iml" />
       <module fileurl="file://$PROJECT_DIR$/2.容器/2.容器.iml" filepath="$PROJECT_DIR$/2.容器/2.容器.iml" />
+      <module fileurl="file://$PROJECT_DIR$/3.Map/3.Map.iml" filepath="$PROJECT_DIR$/3.Map/3.Map.iml" />
+      <module fileurl="file://$PROJECT_DIR$/4.Set有序不重复/4.Set有序不重复.iml" filepath="$PROJECT_DIR$/4.Set有序不重复/4.Set有序不重复.iml" />
+      <module fileurl="file://$PROJECT_DIR$/5.使用Iterator迭代器遍历容器/5.使用Iterator迭代器遍历容器.iml" filepath="$PROJECT_DIR$/5.使用Iterator迭代器遍历容器/5.使用Iterator迭代器遍历容器.iml" />
+      <module fileurl="file://$PROJECT_DIR$/6.Collections工具类/6.Collections工具类.iml" filepath="$PROJECT_DIR$/6.Collections工具类/6.Collections工具类.iml" />
       <module fileurl="file://$PROJECT_DIR$/Container.iml" filepath="$PROJECT_DIR$/Container.iml" />
     </modules>
   </component>
