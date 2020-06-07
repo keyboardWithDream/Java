@@ -31,5 +31,9 @@ public class Constructor {
         System.out.println("当前工程:" +System.getProperty("user.dir"));
         f = new File("1.认识IO/src/头像.jpg");
         System.out.println(f.getAbsolutePath());
+
+        //构建一个不存在的文件
+        src = new File("1.认识IO/src/img");
+        System.out.println(src.getAbsolutePath());
     }
 }
