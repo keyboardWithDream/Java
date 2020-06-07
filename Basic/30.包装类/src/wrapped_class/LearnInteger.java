@@ -17,7 +17,7 @@ public class LearnInteger {
 
     public static void main(String[] args) {
         /* 基本数据类型转成包装类 */
-        Integer integerNum1 = new Integer(9);
+        Integer integerNum1 = Integer.valueOf(9);
         Integer integerNum2 = Integer.valueOf(9);
         Integer integerNum = 9;
 
