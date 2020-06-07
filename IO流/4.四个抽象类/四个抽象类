@@ -1,0 +1,19 @@
+字节流:
+1.InputStream (字节输入流的父类,以字节为单位)
+int read()
+void close()
+
+2.OutputStream (字节输出流的父类,以字节为单位)
+void write(int)
+void flush()
+void close()
+
+字符流:
+3.Reader (字符输入流的父类,以字符为单位)
+int read()
+void close()
+
+4.Writer (字符输入流的父类,以字符为单位)
+void write(String)
+void flush()
+void close()
