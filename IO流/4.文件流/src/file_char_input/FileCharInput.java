@@ -1,4 +1,4 @@
-package file_bytes_input;
+package file_char_input;
 
 import java.io.File;
 import java.io.FileNotFoundException;
@@ -14,7 +14,7 @@ import java.io.IOException;
  * @Author: Harlan
  * @Date: 2020/6/7 22:35
  */
-public class FileBytesInput {
+public class FileCharInput {
 
     public static void  main(String[] args) {
         File file = new File("./4.四个抽象类/src/input.txt");
