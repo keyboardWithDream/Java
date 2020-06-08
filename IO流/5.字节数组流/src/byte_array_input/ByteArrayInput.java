@@ -9,6 +9,7 @@ import java.io.InputStream;
  * @Author: Harlan
  * @Date: 2020/6/7 23:03
  */
+
 public class ByteArrayInput {
     public static void main(String[] args) {
         byte[] src = "talk is cheap show me the code.".getBytes();
@@ -33,4 +34,5 @@ public class ByteArrayInput {
             }
         }
     }
+
 }

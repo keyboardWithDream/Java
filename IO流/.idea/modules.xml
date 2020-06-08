@@ -10,6 +10,8 @@
       <module fileurl="file://$PROJECT_DIR$/3.En(De)code/3.En(De)code.iml" filepath="$PROJECT_DIR$/3.En(De)code/3.En(De)code.iml" />
       <module fileurl="file://$PROJECT_DIR$/4.文件流/4.文件流.iml" filepath="$PROJECT_DIR$/4.文件流/4.文件流.iml" />
       <module fileurl="file://$PROJECT_DIR$/5.字节数组流/5.字节数组流.iml" filepath="$PROJECT_DIR$/5.字节数组流/5.字节数组流.iml" />
+      <module fileurl="file://$PROJECT_DIR$/6.FileUtils/6.FileUtils.iml" filepath="$PROJECT_DIR$/6.FileUtils/6.FileUtils.iml" />
+      <module fileurl="file://$PROJECT_DIR$/7.装饰器/7.装饰器.iml" filepath="$PROJECT_DIR$/7.装饰器/7.装饰器.iml" />
       <module fileurl="file://$PROJECT_DIR$/IO流.iml" filepath="$PROJECT_DIR$/IO流.iml" />
     </modules>
   </component>
