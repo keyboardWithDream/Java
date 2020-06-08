@@ -1,9 +1,6 @@
-package byte_output;
+package file_byte_output;
 
-import java.io.File;
-import java.io.FileNotFoundException;
-import java.io.FileOutputStream;
-import java.io.IOException;
+import java.io.*;
 
 /**
  * 文件字节输出流:
@@ -14,13 +11,13 @@ import java.io.IOException;
  * @Author: Harlan
  * @Date: 2020/6/7 17:08
  */
-public class ByteOutput {
+public class FileByteOutput {
 
     public static void main(String[] args) {
         //1.创建源
         File src = new File("./4.四个抽象类/src/output.txt");
         //2.选择流
-        FileOutputStream os = null;
+        OutputStream os = null;
         try{
             // append在文件末尾追加
             os = new FileOutputStream(src, true);

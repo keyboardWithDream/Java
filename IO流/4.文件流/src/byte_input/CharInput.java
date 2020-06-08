@@ -1,4 +1,4 @@
-package byte_input2;
+package byte_input;
 
 import java.io.*;
 

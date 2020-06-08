@@ -1,4 +1,4 @@
-package char_output;
+package file_char_output;
 
 import java.io.File;
 import java.io.FileWriter;
@@ -9,7 +9,7 @@ import java.io.IOException;
  * @Author: Harlan
  * @Date: 2020/6/7 22:44
  */
-public class CharOutput {
+public class FileCharOutput {
 
     public static void main(String[] args) {
         File file = new File("./4.四个抽象类/src/output.txt");

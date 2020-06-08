@@ -1,22 +1,19 @@
-package byte_input;
+package file_byte_input;
 
-import java.io.File;
-import java.io.FileInputStream;
-import java.io.FileNotFoundException;
-import java.io.IOException;
+import java.io.*;
 
 /**
  * 字符流
  * @Author: Harlan
  * @Date: 2020/6/7 16:22
  */
-public class ByteInput {
+public class FileByteInput {
 
     public static void main(String[] args) {
         //1.创建源
-        File file = new File("./4.四个抽象类/src/input.txt");
+        File file = new File("./4.文件流/src/input.txt");
         //2.选择流
-        FileInputStream is = null;
+        InputStream is = null;
         try{
             //3.操作(按字节读取)
             is = new FileInputStream(file);

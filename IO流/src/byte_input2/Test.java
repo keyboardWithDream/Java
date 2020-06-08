@@ -1,6 +1,7 @@
 package byte_input2;
 
 import java.io.*;
+import java.util.Arrays;
 
 /**
  * 这是一个测试类
@@ -9,7 +10,67 @@ import java.io.*;
  */
 public class Test {
     public static void main(String[] args) {
-        musicToByte("C:/Users/13536/Desktop/REFRESH-陈晓龙.m4a","C:/Users/13536/Desktop/text.txt");
+        System.out.println(Arrays.toString(input()));
+        output(input());
+    }
+
+
+    public static byte[] input(){
+        File file = new File("C:/Users/13536/Desktop/REFRESH-陈晓龙.m4a");
+        InputStream fIs = null;
+        ByteArrayOutputStream bAos = null;
+        byte[] dest = null;
+        try{
+            fIs = new FileInputStream(file);
+            bAos = new ByteArrayOutputStream();
+            byte[] flush = new byte[1024 * 50];
+            int len = -1;
+            while ((len = fIs.read(flush)) != -1){
+                bAos.write(flush,0,flush.length);
+                bAos.flush();
+                dest = bAos.toByteArray();
+            }
+        } catch (FileNotFoundException e) {
+            e.printStackTrace();
+        } catch (IOException e) {
+            e.printStackTrace();
+        }finally {
+            if (fIs != null){
+                try{
+                    fIs.close();
+                } catch (IOException e) {
+                    e.printStackTrace();
+                }
+            }
+        }
+        return dest;
+    }
+
+    public static void output(byte[] dest){
+        File file = new File("C:/Users/13536/Desktop/REFRESH-陈晓龙1.m4a");
+        ByteArrayOutputStream bAos = null;
+        OutputStream os = null;
+        try{
+            bAos = new ByteArrayOutputStream();
+            os = new FileOutputStream(file);
+            bAos.write(dest,0,dest.length);
+            bAos.flush();
+            byte[] data = bAos.toByteArray();
+            os.write(data, 0, data.length);
+            os.flush();
+        } catch (FileNotFoundException e) {
+            e.printStackTrace();
+        } catch (IOException e) {
+            e.printStackTrace();
+        }finally {
+            if (os != null){
+                try {
+                    os.close();
+                } catch (IOException e) {
+                    e.printStackTrace();
+                }
+            }
+        }
     }
 
 
@@ -57,7 +118,7 @@ public class Test {
 
 
     public static void printFile(){
-        File file = new File("./4.四个抽象类/test.txt");
+        File file = new File("");
         InputStream is = null;
         try{
             int temp;
