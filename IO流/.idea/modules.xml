@@ -6,6 +6,9 @@
       <module fileurl="file://$PROJECT_DIR$/0.2拷贝文件/0.2拷贝文件.iml" filepath="$PROJECT_DIR$/0.2拷贝文件/0.2拷贝文件.iml" />
       <module fileurl="file://$PROJECT_DIR$/0.3对接流/0.3对接流.iml" filepath="$PROJECT_DIR$/0.3对接流/0.3对接流.iml" />
       <module fileurl="file://$PROJECT_DIR$/1.认识IO/1.认识IO.iml" filepath="$PROJECT_DIR$/1.认识IO/1.认识IO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/10.数据流/10.数据流.iml" filepath="$PROJECT_DIR$/10.数据流/10.数据流.iml" />
+      <module fileurl="file://$PROJECT_DIR$/11.对象流/11.对象流.iml" filepath="$PROJECT_DIR$/11.对象流/11.对象流.iml" />
+      <module fileurl="file://$PROJECT_DIR$/12.打印流/12.打印流.iml" filepath="$PROJECT_DIR$/12.打印流/12.打印流.iml" />
       <module fileurl="file://$PROJECT_DIR$/2.FileAPI/2.FileAPI.iml" filepath="$PROJECT_DIR$/2.FileAPI/2.FileAPI.iml" />
       <module fileurl="file://$PROJECT_DIR$/3.En(De)code/3.En(De)code.iml" filepath="$PROJECT_DIR$/3.En(De)code/3.En(De)code.iml" />
       <module fileurl="file://$PROJECT_DIR$/4.文件流/4.文件流.iml" filepath="$PROJECT_DIR$/4.文件流/4.文件流.iml" />
