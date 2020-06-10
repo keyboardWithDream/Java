@@ -57,14 +57,17 @@ public class DownloadImg{
      * 下载工具
      */
     public void download(){
-        String[] urlArray = null;
-        String[] fileArray = null;
+
+        String[] fileArray = fileArray = this.file.split("/");
+        String w = this.url.split("/")[3];
+        String h = this.url.split("/")[4];
         for (int i = 0; i < 10; i++) {
-            urlArray = this.url.split("/");
+            String width = this.url.split("/")[3];
+            String height = this.url.split("/")[4];
             fileArray = this.file.split("/");
-            System.out.println(urlArray[3]);
-            this.url = this.url.replace(urlArray[3],String.valueOf(((Integer.parseInt(urlArray[3]))+i))).replace(urlArray[4],String.valueOf(((Integer.parseInt(urlArray[4]))+i)));
-            this.file = this.file.replace(fileArray[fileArray.length-1],"img"+urlArray[3]+".jpg");
+            System.out.println(width);
+            this.url = this.url.replace(width,String.valueOf(((Integer.parseInt(w))+i))).replace(height,String.valueOf(((Integer.parseInt(h))+i)));
+            this.file = this.file.replace(fileArray[fileArray.length-1],"img"+i+".jpg");
            try {
                FileUtils.copyURLToFile(new URL(this.url),new File(file));
            } catch (MalformedURLException e) {

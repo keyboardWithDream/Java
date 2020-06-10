@@ -7,27 +7,30 @@ package download_img_with_thread;
  */
 public class ThreadDown extends Thread{
 
+    private String width;
+    private String height;
     private String filePath;
+
+    public ThreadDown(int width, int heigh, String filePath){
+        this.width = Integer.toString(width);
+        this.height = Integer.toString(heigh);
+        this.filePath =filePath;
+    }
 
 
     @Override
     public void run() {
         super.run();
-        DownloadImg di = new DownloadImg("200","300",filePath);
+        DownloadImg di = new DownloadImg(this.width,this.height,this.filePath);
         di.download();
     }
 
     public static void main(String[] args) {
-        ThreadDown td = new ThreadDown();
-        ThreadDown td2 = new ThreadDown();
-        ThreadDown td3 = new ThreadDown();
-        td.filePath = "./1.创建线程/src/imgThread/ ";
-        td2.filePath = "./1.创建线程/src/imgThread2/ ";
-        td3.filePath = "./1.创建线程/src/imgThread3/ ";
+        ThreadDown td = new ThreadDown(300,300,"./1.创建线程/src/imgThread/ ");
+        ThreadDown td2 = new ThreadDown(500,500,"./1.创建线程/src/imgThread2/ ");
         td.start();
         td2.start();
-        td3.start();
-        DownloadImg di = new DownloadImg("600","700", "./1.创建线程/src/imgMain/ ");
+        DownloadImg di = new DownloadImg("700","700", "./1.创建线程/src/imgMain/ ");
         di.download();
     }
 }
