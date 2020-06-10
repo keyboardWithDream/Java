@@ -1,9 +1,11 @@
 package download_img_with_thread;
 
+import jdk.swing.interop.SwingInterOpUtils;
 import org.apache.commons.io.FileUtils;
 
 import java.io.File;
 import java.io.IOException;
+import java.io.PrintStream;
 import java.net.MalformedURLException;
 import java.net.URL;
 
@@ -19,10 +21,10 @@ public class DownloadImg{
     private String file;
     private String width;
     private String height;
+    private int num;
 
-
-
-    public DownloadImg(String width, String height, String file) {
+    public DownloadImg(int num,String width, String height, String file) {
+        this.num = num;
         this.width = width;
         this.height = height;
         this.file = file;
@@ -57,17 +59,16 @@ public class DownloadImg{
      * 下载工具
      */
     public void download(){
-
         String[] fileArray = fileArray = this.file.split("/");
         String w = this.url.split("/")[3];
         String h = this.url.split("/")[4];
-        for (int i = 0; i < 10; i++) {
+        for (int i = 0; i <= num; i++) {
+            System.out.println(Thread.currentThread().getName() + " 已执行: "+ (float)i / (float) num * 100  +"%");
             String width = this.url.split("/")[3];
             String height = this.url.split("/")[4];
             fileArray = this.file.split("/");
-            System.out.println(width);
             this.url = this.url.replace(width,String.valueOf(((Integer.parseInt(w))+i))).replace(height,String.valueOf(((Integer.parseInt(h))+i)));
-            this.file = this.file.replace(fileArray[fileArray.length-1],"img"+i+".jpg");
+            this.file = this.file.replace(fileArray[fileArray.length-1],width+"x"+ height+".jpg");
            try {
                FileUtils.copyURLToFile(new URL(this.url),new File(file));
            } catch (MalformedURLException e) {
