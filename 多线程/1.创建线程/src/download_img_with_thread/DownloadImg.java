@@ -19,40 +19,12 @@ public class DownloadImg{
 
     private String url = "http://placekitten.com/width/high";
     private String file;
-    private String width;
-    private String height;
-    private int num;
+    private final int num;
 
     public DownloadImg(int num,String width, String height, String file) {
         this.num = num;
-        this.width = width;
-        this.height = height;
         this.file = file;
-        this.url = this.url.replace("width", this.width).replace("high",height);
-    }
-
-    public String getWidth() {
-        return width;
-    }
-
-    public void setWidth(String width) {
-        this.width = width;
-    }
-
-    public String getHeight() {
-        return height;
-    }
-
-    public void setHeight(String height) {
-        this.height = height;
-    }
-
-    public String getFile() {
-        return file;
-    }
-
-    public void setFile(String file) {
-        this.file = file;
+        this.url = this.url.replace("width", width).replace("high",height);
     }
 
     /**

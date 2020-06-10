@@ -7,13 +7,11 @@ package download_img_with_thread;
  */
 public class ThreadDown extends Thread{
 
-    private String width;
-    private String height;
-    private String filePath;
-    private int num;
+    private final String width;
+    private final String height;
+    private final String filePath;
 
     public ThreadDown(int num, int width, int heigh, String filePath){
-        this.num =num;
         this.width = Integer.toString(width);
         this.height = Integer.toString(heigh);
         this.filePath =filePath;
