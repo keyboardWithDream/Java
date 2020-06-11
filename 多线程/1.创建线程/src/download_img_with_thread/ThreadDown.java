@@ -26,11 +26,11 @@ public class ThreadDown extends Thread{
     }
 
     public static void main(String[] args) {
-        ThreadDown td = new ThreadDown(10,300,300,"./1.创建线程/src/img/imgThread/ ");
-        ThreadDown td2 = new ThreadDown(10,500,500,"./1.创建线程/src/img/imgThread2/ ");
+        ThreadDown td = new ThreadDown(10,300,300,"./1.创建线程/src/download_img_with_thread/img/imgThread/ ");
+        ThreadDown td2 = new ThreadDown(10,500,500,"./1.创建线程/src/download_img_with_thread/img/imgThread2/ ");
         td.start();
         td2.start();
-        DownloadImg di = new DownloadImg(10,"700","700", "./1.创建线程/src/img/imgMain/ ");
+        DownloadImg di = new DownloadImg(10,"700","700", "./1.创建线程/src/download_img_with_thread/img/imgMain/ ");
         di.download();
     }
 }
