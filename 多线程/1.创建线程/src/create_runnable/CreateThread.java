@@ -22,6 +22,7 @@ public class CreateThread implements Runnable{
 //        Thread t = new Thread(ct);
 //        //启动
 //        t.start();
+
         new Thread(new CreateThread()).start();
 
         for (int i = 0; i < 10; i++) {
