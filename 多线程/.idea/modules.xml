@@ -3,11 +3,22 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/0.1线程状态/0.1线程状态.iml" filepath="$PROJECT_DIR$/0.1线程状态/0.1线程状态.iml" />
+      <module fileurl="file://$PROJECT_DIR$/0.2模拟影院/0.2模拟影院.iml" filepath="$PROJECT_DIR$/0.2模拟影院/0.2模拟影院.iml" />
       <module fileurl="file://$PROJECT_DIR$/1.创建线程/1.创建线程.iml" filepath="$PROJECT_DIR$/1.创建线程/1.创建线程.iml" />
+      <module fileurl="file://$PROJECT_DIR$/10.线程同步/10.线程同步.iml" filepath="$PROJECT_DIR$/10.线程同步/10.线程同步.iml" />
+      <module fileurl="file://$PROJECT_DIR$/11.并发容器/11.并发容器.iml" filepath="$PROJECT_DIR$/11.并发容器/11.并发容器.iml" />
+      <module fileurl="file://$PROJECT_DIR$/12.死锁/12.死锁.iml" filepath="$PROJECT_DIR$/12.死锁/12.死锁.iml" />
+      <module fileurl="file://$PROJECT_DIR$/13.线程协作/13.线程协作.iml" filepath="$PROJECT_DIR$/13.线程协作/13.线程协作.iml" />
+      <module fileurl="file://$PROJECT_DIR$/14.定时调度/14.定时调度.iml" filepath="$PROJECT_DIR$/14.定时调度/14.定时调度.iml" />
+      <module fileurl="file://$PROJECT_DIR$/15.指令重排/15.指令重排.iml" filepath="$PROJECT_DIR$/15.指令重排/15.指令重排.iml" />
       <module fileurl="file://$PROJECT_DIR$/2.静态代理/2.静态代理.iml" filepath="$PROJECT_DIR$/2.静态代理/2.静态代理.iml" />
       <module fileurl="file://$PROJECT_DIR$/3.lambda/3.lambda.iml" filepath="$PROJECT_DIR$/3.lambda/3.lambda.iml" />
       <module fileurl="file://$PROJECT_DIR$/4.线程状态/4.线程状态.iml" filepath="$PROJECT_DIR$/4.线程状态/4.线程状态.iml" />
       <module fileurl="file://$PROJECT_DIR$/5.线程插队/5.线程插队.iml" filepath="$PROJECT_DIR$/5.线程插队/5.线程插队.iml" />
+      <module fileurl="file://$PROJECT_DIR$/6.优先级/6.优先级.iml" filepath="$PROJECT_DIR$/6.优先级/6.优先级.iml" />
+      <module fileurl="file://$PROJECT_DIR$/7.守护线程/7.守护线程.iml" filepath="$PROJECT_DIR$/7.守护线程/7.守护线程.iml" />
+      <module fileurl="file://$PROJECT_DIR$/8.Thread的方法/8.Thread的方法.iml" filepath="$PROJECT_DIR$/8.Thread的方法/8.Thread的方法.iml" />
+      <module fileurl="file://$PROJECT_DIR$/9.线程不安全/9.线程不安全.iml" filepath="$PROJECT_DIR$/9.线程不安全/9.线程不安全.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/多线程.iml" filepath="$PROJECT_DIR$/.idea/多线程.iml" />
     </modules>
   </component>
