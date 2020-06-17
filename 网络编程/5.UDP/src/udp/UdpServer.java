@@ -58,8 +58,8 @@ public class UdpServer {
         byte[] data = packet.getData();
         File file = new File(filePath);
         BufferedOutputStream bos = new BufferedOutputStream(new FileOutputStream(file));
-        bos.write(data,0,data.length);
         bos.flush();
+        bos.write(data,0,data.length);
         bos.close();
         server.close();
         System.out.println("接收完毕...");
