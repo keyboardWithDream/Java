@@ -1,13 +1,17 @@
 package thread_udp;
 
+import java.net.SocketException;
+
 /**
  * @Author: Harlan
  * @Date: 2020/6/17 22:22
  */
 public class RunSend {
 
-    public static void main(String[] args) {
-        Thread sendThread = new Thread(new TalkSend());
+    public static void main(String[] args) throws SocketException {
+        Thread receiveThread = new Thread(new TalkReceive(5555));
+        Thread sendThread = new Thread(new TalkSend("localhost",7777,8888));
+        receiveThread.start();
         sendThread.start();
     }
 }

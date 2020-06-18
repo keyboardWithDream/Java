@@ -3,6 +3,7 @@ package thread_udp;
 import java.io.IOException;
 import java.net.DatagramPacket;
 import java.net.DatagramSocket;
+import java.net.SocketException;
 import java.util.Arrays;
 
 /**
@@ -11,13 +12,16 @@ import java.util.Arrays;
  */
 public class TalkReceive implements Runnable{
 
-    private DatagramSocket ds;
-    private byte[] data = new byte[1024 * 100];
+    private final DatagramSocket ds;
+    private final byte[] data = new byte[1024 * 100];
+
+    public TalkReceive(int port) throws SocketException {
+        this.ds = new DatagramSocket(port);
+    }
 
     @Override
     public void run() {
         try {
-            ds = new DatagramSocket(6666);
             String QUIT_TALK = "quit!";
             String content;
             DatagramPacket packet = new DatagramPacket(data, 0, data.length);
