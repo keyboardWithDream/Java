@@ -36,6 +36,7 @@
       <module fileurl="file://$PROJECT_DIR$/Basic/32.文件类/32.文件类.iml" filepath="$PROJECT_DIR$/Basic/32.文件类/32.文件类.iml" />
       <module fileurl="file://$PROJECT_DIR$/Basic/33.枚举/33.枚举.iml" filepath="$PROJECT_DIR$/Basic/33.枚举/33.枚举.iml" />
       <module fileurl="file://$PROJECT_DIR$/Basic/34.异常/34.异常.iml" filepath="$PROJECT_DIR$/Basic/34.异常/34.异常.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Basic/35.工厂设计模式/35.工厂设计模式.iml" filepath="$PROJECT_DIR$/Basic/35.工厂设计模式/35.工厂设计模式.iml" />
       <module fileurl="file://$PROJECT_DIR$/Basic/4.条件运算符/4.条件运算符.iml" filepath="$PROJECT_DIR$/Basic/4.条件运算符/4.条件运算符.iml" />
       <module fileurl="file://$PROJECT_DIR$/Basic/5.键盘输入/5.键盘输入.iml" filepath="$PROJECT_DIR$/Basic/5.键盘输入/5.键盘输入.iml" />
       <module fileurl="file://$PROJECT_DIR$/Basic/6.结构体/6.结构体.iml" filepath="$PROJECT_DIR$/Basic/6.结构体/6.结构体.iml" />
@@ -47,6 +48,7 @@
       <module fileurl="file://$PROJECT_DIR$/IO流/IO流.iml" filepath="$PROJECT_DIR$/IO流/IO流.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Java.iml" filepath="$PROJECT_DIR$/.idea/Java.iml" />
       <module fileurl="file://$PROJECT_DIR$/I/O流/I/O流.iml" filepath="$PROJECT_DIR$/I/O流/I/O流.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WebServer/WebServer.iml" filepath="$PROJECT_DIR$/WebServer/WebServer.iml" />
       <module fileurl="file://$PROJECT_DIR$/多线程/多线程.iml" filepath="$PROJECT_DIR$/多线程/多线程.iml" />
       <module fileurl="file://$PROJECT_DIR$/自我检测/自我检测.iml" filepath="$PROJECT_DIR$/自我检测/自我检测.iml" />
     </modules>

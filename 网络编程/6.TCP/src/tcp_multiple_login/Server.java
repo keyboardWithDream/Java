@@ -49,6 +49,9 @@ public class Server {
         } catch (IOException e) {
             e.printStackTrace();
         }finally {
+            /*
+             * 服务器将在用户输入yes后关闭
+             */
             System.out.println("=====Server ShutDown=====");
             try {
                 server.close();
@@ -56,10 +59,6 @@ public class Server {
                 e.printStackTrace();
             }
         }
-
-        /*
-         * 服务器要一直运行，所以不用关闭网络资源
-         */
     }
 
 }

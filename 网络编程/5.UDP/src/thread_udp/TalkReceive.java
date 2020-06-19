@@ -5,6 +5,7 @@ import java.net.DatagramPacket;
 import java.net.DatagramSocket;
 import java.net.SocketException;
 import java.util.Arrays;
+import java.util.Date;
 
 /**
  * @Author: Harlan
@@ -28,7 +29,7 @@ public class TalkReceive implements Runnable{
             do {
                 ds.receive(packet);
                 content = new String(data,0, packet.getLength());
-                System.out.println(content);
+                System.out.println(new Date().toString() + "收到的消息: " + content);
                 if (content.equals(QUIT_TALK)){
                     break;
                 }

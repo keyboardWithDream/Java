@@ -6,7 +6,7 @@ import java.net.SocketException;
  * @Author: Harlan
  * @Date: 2020/6/17 22:22
  */
-public class RunSend {
+public class Talk2 {
 
     public static void main(String[] args) throws SocketException {
         Thread receiveThread = new Thread(new TalkReceive(5555));

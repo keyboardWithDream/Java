@@ -8,13 +8,9 @@ import java.net.Socket;
  * @Date: 2020/6/18 13:55
  */
 public class LoginThread implements Runnable {
-    InputStream is = null;
-    ObjectInputStream ois = null;
-    OutputStream os = null ;
-    DataOutputStream dos = null;
-    Socket client;
-    final String USER_NAME = "admin";
-    final String PASSWORD = "123456";
+    private InputStream is = null;
+    private ObjectInputStream ois = null;
+    private final Socket client;
 
     public LoginThread(Socket client) {
         this.client = client;
@@ -33,10 +29,12 @@ public class LoginThread implements Runnable {
             client.shutdownInput();
 
             //启动Socket输出流，将登陆成功或失败信息返回给客户端
-            os = client.getOutputStream();
-            dos = new DataOutputStream(os);
+            OutputStream os = client.getOutputStream();
+            DataOutputStream dos = new DataOutputStream(os);
 
             //对接收到的数据进行判定
+            final String USER_NAME = "admin";
+            final String PASSWORD = "123456";
             if(USER_NAME.equals(p.getName()) && PASSWORD.equals(p.getPassword())) {
                 dos.writeUTF("登陆成功！");
             }else {
@@ -62,6 +60,5 @@ public class LoginThread implements Runnable {
                 e.printStackTrace();
             }
         }
-
     }
 }

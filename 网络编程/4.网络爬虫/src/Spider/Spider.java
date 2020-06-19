@@ -35,7 +35,7 @@ public class Spider {
 
 
     /**
-     * 封装
+     * 封装(字节数组流u)
      * @param url 网址
      * @param filePath 文件
      */

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/1.地址/1.地址.iml" filepath="$PROJECT_DIR$/1.地址/1.地址.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2.端口/2.端口.iml" filepath="$PROJECT_DIR$/2.端口/2.端口.iml" />
+      <module fileurl="file://$PROJECT_DIR$/3.URL/3.URL.iml" filepath="$PROJECT_DIR$/3.URL/3.URL.iml" />
+      <module fileurl="file://$PROJECT_DIR$/4.网络爬虫/4.网络爬虫.iml" filepath="$PROJECT_DIR$/4.网络爬虫/4.网络爬虫.iml" />
+      <module fileurl="file://$PROJECT_DIR$/5.UDP/5.UDP.iml" filepath="$PROJECT_DIR$/5.UDP/5.UDP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/6.TCP/6.TCP.iml" filepath="$PROJECT_DIR$/6.TCP/6.TCP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/网络编程.iml" filepath="$PROJECT_DIR$/网络编程.iml" />
+    </modules>
+  </component>
+</project>
