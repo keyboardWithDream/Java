@@ -1,52 +1,58 @@
-package tcp_talk;
+package tcp_talk.client;
 
-import java.io.*;
+import tcp_talk.Utils;
+
+import java.io.DataInputStream;
+import java.io.DataOutputStream;
+import java.io.IOException;
 import java.net.Socket;
 
 /**
  * @Author: Harlan
- * @Date: 2020/6/18 20:35
+ * @Date: 2020/6/18 22:46
  */
 public class Receive implements Runnable{
 
     private Socket client;
+    private DataOutputStream dos;
     private DataInputStream dis;
     private boolean isRunning;
+    private final String ERROR = "数据接收错误!";
 
     public Receive(Socket client) {
         this.client = client;
         try {
             this.dis = new DataInputStream(client.getInputStream());
-            this.isRunning = true;
+            isRunning = true;
         } catch (IOException e) {
-            System.out.println("客户端错误!");
-            release();
+            e.printStackTrace();
         }
     }
 
-    private String receive(){
-        String msg = "消息接收失败!";
+    private String receiveMsg(){
+        String msg = ERROR;
         try {
             msg = dis.readUTF();
         } catch (IOException e) {
-            System.out.println("receive -- 错误!");
-            release();
+            getError();
         }
         return msg;
     }
 
-    private void release(){
+    /**
+     * 异常处理
+     */
+    private void getError(){
         this.isRunning = false;
+        System.out.println("###!!!WARNING!!!###");
         Utils.close(dis,client);
     }
 
     @Override
     public void run() {
         while (isRunning){
-            String msg = receive();
-            if (!msg.equals("消息接收失败!")){
-                System.out.println(msg);
-            }
+            String msg = receiveMsg();
+            System.out.println(msg);
         }
     }
 }

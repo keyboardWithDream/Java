@@ -1,23 +1,19 @@
-package tcp_talk;
+package tcp_talk.client;
 
-import java.io.*;
+import java.io.IOException;
 import java.net.Socket;
 
 /**
  * @Author: Harlan
- * @Date: 2020/6/18 18:11
+ * @Date: 2020/6/18 22:09
  */
 public class Client {
 
     public static void main(String[] args) throws IOException {
-
-        System.out.println("=====Client Run=====");
-
-
-        //连接:使用Socket 创建客户端 + 服务的地址和端口
         Socket client = new Socket("localhost",8899);
-
-        new Thread(new Send(client)).start();
+        System.out.println("====CLIENT RUN====");
         new Thread(new Receive(client)).start();
+        new Thread(new Send(client)).start();
     }
 }
+
