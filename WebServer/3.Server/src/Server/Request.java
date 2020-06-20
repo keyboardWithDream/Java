@@ -46,8 +46,6 @@ public class Request {
         final String POST = "post";
         final String QM = "?";
         final String CRLF = "\r\n";
-        System.out.println("====分解开始====");
-        System.out.println(requestInfo);
         method = requestInfo.substring(0,requestInfo.indexOf("/")).trim().toLowerCase();
         url = requestInfo.substring(requestInfo.indexOf("/")+1,requestInfo.indexOf("HTTP/"));
         //分解参数和url
@@ -65,7 +63,6 @@ public class Request {
             }
         }
         queryStr = null == queryStr ? "":queryStr;
-        System.out.println(method+"--->"+url+"--->"+queryStr);
 
         //将请求参数转换为Map
         convertMap(queryStr);

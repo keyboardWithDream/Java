@@ -1,5 +1,9 @@
 package Server;
 
+import serlvet.LoginServlet;
+import serlvet.RegisterServlet;
+import serlvet.Servlet;
+
 import java.io.*;
 import java.net.ServerSocket;
 import java.net.Socket;
@@ -12,6 +16,8 @@ import java.net.Socket;
 public class Server {
 
     private ServerSocket ss;
+    private final String LOGIN = "login";
+    private final String REGISTER = "reg";
 
     /**
      * 启动服务
@@ -34,28 +40,24 @@ public class Server {
             Socket client = ss.accept();
             System.out.println("=====一个客户端建立了连接=====");
 
-            //获取请求协议
-            Request request = new Request(client);
 
-            //返回响应协议
-            //响应内容
+            Request request = new Request(client);
             Response response = new Response(client);
-            StringBuilder content = new StringBuilder();
-            response.print("<html lang=\"zh-CN\">");
-            response.print("<head>");
-            response.print("<title>");
-            response.print("服务器响应成功");
-            response.print("</title>");
-            response.print("</head>");
-            response.print("<body>");
-            response.print("服务器响应成功...<br>");
-            response.print("name --->" + request.getParameterValue("uName") +"<br>");
-            response.print("pwd ---> " +request.getParameterValue("pwd")+"<br>");
-            response.print("</body>");
-            response.print("</html>");
+
+            Servlet servlet = null;
+
+            if (request.getUrl().equals(LOGIN)){
+                servlet = new LoginServlet();
+                servlet.service(request, response);
+            }else if (request.getUrl().equals(REGISTER)){
+                servlet = new RegisterServlet();
+                servlet.service(request, response);
+            }
+
 
             //构建响应
             response.pushToBrowser(200);
+
         } catch (IOException e) {
             System.out.println("=====客户端连接错误=====");
             e.printStackTrace();

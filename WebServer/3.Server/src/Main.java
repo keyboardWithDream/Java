@@ -1,4 +1,4 @@
-package Server;
+import Server.Server;
 
 /**
  * 主程序
