@@ -41,14 +41,16 @@ public class Server {
             //响应内容
             Response response = new Response(client);
             StringBuilder content = new StringBuilder();
-            response.print("<html>");
+            response.print("<html lang=\"zh-CN\">");
             response.print("<head>");
             response.print("<title>");
             response.print("服务器响应成功");
             response.print("</title>");
             response.print("</head>");
             response.print("<body>");
-            response.print("服务器响应成功...");
+            response.print("服务器响应成功...<br>");
+            response.print("name --->" + request.getParameterValue("uName") +"<br>");
+            response.print("pwd ---> " +request.getParameterValue("pwd")+"<br>");
             response.print("</body>");
             response.print("</html>");
 

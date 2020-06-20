@@ -3,6 +3,9 @@ package Server;
 import java.io.*;
 import java.net.Socket;
 import java.util.Date;
+import java.util.HashMap;
+import java.util.List;
+import java.util.Map;
 
 /**
  * 封装响应协议
@@ -78,8 +81,8 @@ public class Response {
         }
 
         headInfo.append("Date:").append(new Date()).append(CRLF);
-        headInfo.append("Server:").append("localhost;charset=UTF-8").append(CRLF);
-        headInfo.append("Content-type:").append("text/html").append(CRLF);
+        headInfo.append("Server:").append("localhost").append(CRLF);
+        headInfo.append("Content-type:").append("text/html;charset=utf-8").append(CRLF);
         headInfo.append("Content-length:").append(contentLength).append(CRLF);
         headInfo.append(CRLF);
     }
