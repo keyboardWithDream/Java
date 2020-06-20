@@ -3,7 +3,6 @@ package Server;
 import java.io.*;
 import java.net.ServerSocket;
 import java.net.Socket;
-import java.util.Date;
 
 /**
  * 目标: 使用ServerSocket建立与浏览器的连接,获取请求协议
@@ -36,11 +35,7 @@ public class Server {
             System.out.println("=====一个客户端建立了连接=====");
 
             //获取请求协议
-            InputStream is = client.getInputStream();
-            byte[] data = new byte[1024 * 1024];
-            int dataLen = is.read(data);
-            System.out.println(new String(data,0,dataLen-1));
-            System.out.println("==========================");
+            Request request = new Request(client);
 
             //返回响应协议
             //响应内容
