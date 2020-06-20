@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/1.反射/1.反射.iml" filepath="$PROJECT_DIR$/1.反射/1.反射.iml" />
       <module fileurl="file://$PROJECT_DIR$/2.XML解析/2.XML解析.iml" filepath="$PROJECT_DIR$/2.XML解析/2.XML解析.iml" />
+      <module fileurl="file://$PROJECT_DIR$/3.Server/3.Server.iml" filepath="$PROJECT_DIR$/3.Server/3.Server.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/WebServer.iml" filepath="$PROJECT_DIR$/.idea/WebServer.iml" />
     </modules>
   </component>
