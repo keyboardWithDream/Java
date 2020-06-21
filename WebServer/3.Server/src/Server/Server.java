@@ -1,8 +1,8 @@
 package Server;
 
-import serlvet.LoginServlet;
-import serlvet.RegisterServlet;
-import serlvet.Servlet;
+import servlet.Servlet;
+import servlet.WebApp;
+import thread.ThreadRun;
 
 import java.io.*;
 import java.net.ServerSocket;
@@ -39,28 +39,23 @@ public class Server {
         try {
             Socket client = ss.accept();
             System.out.println("=====一个客户端建立了连接=====");
+            new Thread(new ThreadRun(client)).start();
 
+//            Request request = new Request(client);
+//            Response response = new Response(client);
+//
 
-            Request request = new Request(client);
-            Response response = new Response(client);
-
-            Servlet servlet = null;
-
-            if (request.getUrl().equals(LOGIN)){
-                servlet = new LoginServlet();
-                servlet.service(request, response);
-            }else if (request.getUrl().equals(REGISTER)){
-                servlet = new RegisterServlet();
-                servlet.service(request, response);
-            }
-
-
-            //构建响应
-            response.pushToBrowser(200);
-
-        } catch (IOException e) {
-            System.out.println("=====客户端连接错误=====");
-            e.printStackTrace();
+//            //通过WebApp 解析并动态创建Servlet
+//            Servlet servlet = WebApp.getServletFromUrl(request.getUrl());
+//            if (servlet != null){
+//                servlet.service(request,response);
+//                response.pushToBrowser(200);
+//            }else {
+//                response.pushToBrowser(404);
+//            }
+       } catch (IOException e) {
+           System.out.println("=====客户端连接错误=====");
+           e.printStackTrace();
         }
     }
 

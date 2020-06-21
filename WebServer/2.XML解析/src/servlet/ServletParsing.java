@@ -11,7 +11,6 @@ import javax.xml.parsers.SAXParser;
 import javax.xml.parsers.SAXParserFactory;
 import java.io.IOException;
 import java.lang.reflect.InvocationTargetException;
-import java.util.*;
 
 /**
  * @Author: Harlan
@@ -25,31 +24,12 @@ public class ServletParsing {
         WebHandler handler = new WebHandler();
         parser.parse(Thread.currentThread().getContextClassLoader().getResourceAsStream("servlet/parsing/web.xml"),handler);
 
-        //打印测试
-        List<Entity> entityList = handler.getEntityList();
-        List<Mapping> mappingList = handler.getMappingList();
-
-        /**
-         * 打印测试
-         */
-        for (Entity entity : entityList) {
-            System.out.println(entity.toString());
-        }
-
-        System.out.println("=======================");
-
-        for (Mapping mapping : mappingList) {
-            System.out.println(mapping.toString());
-        }
-
-        System.out.println("=======================");
-
         //提交数据给webContext处理
         WebContext webContext = new WebContext(handler.getEntityList(), handler.getMappingList());
 
-
         //得到反射类
         String clzName = webContext.getClz("/g");
+        System.out.println(clzName);
         Class clz = Class.forName(clzName);
         Servlet servlet = (Servlet)clz.getConstructor().newInstance();
         servlet.service();

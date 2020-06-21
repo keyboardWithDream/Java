@@ -1,4 +1,4 @@
-package serlvet;
+package servlet;
 
 import Server.Request;
 import Server.Response;
