@@ -10,7 +10,7 @@ public class Main {
     public static void main(String[] args) {
         Server server = new Server();
         server.start();
-        while (true){
+        while (server.isRunning){
             server.receive();
         }
     }

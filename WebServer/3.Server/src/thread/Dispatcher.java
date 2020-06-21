@@ -11,32 +11,49 @@ import java.net.Socket;
  * @Author: Harlan
  * @Date: 2020/6/21 1:06
  */
-public class ThreadRun implements Runnable{
+public class Dispatcher implements Runnable{
 
     private Socket client;
     private Request request;
     private Response response;
     private Servlet servlet;
 
-    public ThreadRun(Socket client) {
+    public Dispatcher(Socket client) {
         this.client = client;
+        try {
+            this.request = new Request(client);
+            this.response = new Response(client);
+        } catch (IOException e) {
+            System.out.println("响应出错...");
+            release();
+            e.printStackTrace();
+        }
+    }
+
+    /**
+     * 关闭客户端,释放资源
+     */
+    private void release(){
+        try {
+            client.close();
+        } catch (IOException e) {
+            System.out.println("=====客户端关闭异常=====");
+            e.printStackTrace();
+        }
     }
 
     @Override
     public void run() {
-        try {
-            this.request = new Request(client);
-            this.response = new Response(client);
-            servlet = WebApp.getServletFromUrl(request.getUrl());
-        } catch (IOException e) {
-            System.out.println("响应出错...");
-            e.printStackTrace();
-        }
+        System.out.println("客户端IP: " + client.getLocalAddress().getHostAddress());
+        System.out.println(request.getUrl());
+        servlet = WebApp.getServletFromUrl(request.getUrl());
         if (servlet != null){
             servlet.service(request,response);
             response.pushToBrowser(200);
         }else {
             response.pushToBrowser(404);
         }
+        //短连接 释放资源
+        release();
     }
 }

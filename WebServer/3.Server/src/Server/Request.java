@@ -47,7 +47,7 @@ public class Request {
         final String QM = "?";
         final String CRLF = "\r\n";
         method = requestInfo.substring(0,requestInfo.indexOf("/")).trim().toLowerCase();
-        url = requestInfo.substring(requestInfo.indexOf("/")+1,requestInfo.indexOf("HTTP/"));
+        url = requestInfo.substring(requestInfo.indexOf("/")+1,requestInfo.indexOf("HTTP/")).trim();
         //分解参数和url
         if (url.indexOf(QM) >= 0){
             String[] urlArr = url.split("\\?");
@@ -96,7 +96,8 @@ public class Request {
     public String[] getParameterValues(String key){
         List<String> valueList = parameterMap.get(key);
         if (valueList == null || valueList.size() < 1){
-            return null;
+            String[] strArr = {"null","null"};
+            return strArr;
         }
         //转换类型成String[]
         return valueList.toArray(new String[0]);
