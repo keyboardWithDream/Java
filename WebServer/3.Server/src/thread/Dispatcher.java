@@ -45,7 +45,6 @@ public class Dispatcher implements Runnable{
     @Override
     public void run() {
         System.out.println("客户端IP: " + client.getLocalAddress().getHostAddress());
-        System.out.println(request.getUrl());
         servlet = WebApp.getServletFromUrl(request.getUrl());
         if (servlet != null){
             servlet.service(request,response);

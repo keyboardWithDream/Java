@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/1.Whatis注解/1.Whatis注解.iml" filepath="$PROJECT_DIR$/1.Whatis注解/1.Whatis注解.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2.自定义注解/2.自定义注解.iml" filepath="$PROJECT_DIR$/2.自定义注解/2.自定义注解.iml" />
+      <module fileurl="file://$PROJECT_DIR$/3.ORM/3.ORM.iml" filepath="$PROJECT_DIR$/3.ORM/3.ORM.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/注解.iml" filepath="$PROJECT_DIR$/.idea/注解.iml" />
+    </modules>
+  </component>
+</project>
