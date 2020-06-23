@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/1.Reflection/1.Reflection.iml" filepath="$PROJECT_DIR$/1.Reflection/1.Reflection.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2.反射API/2.反射API.iml" filepath="$PROJECT_DIR$/2.反射API/2.反射API.iml" />
+      <module fileurl="file://$PROJECT_DIR$/3.动态操作/3.动态操作.iml" filepath="$PROJECT_DIR$/3.动态操作/3.动态操作.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/反射机制.iml" filepath="$PROJECT_DIR$/.idea/反射机制.iml" />
+    </modules>
+  </component>
+</project>
