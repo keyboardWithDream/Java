@@ -8,6 +8,7 @@
       <module fileurl="file://$PROJECT_DIR$/4.反射机制性能问题/4.反射机制性能问题.iml" filepath="$PROJECT_DIR$/4.反射机制性能问题/4.反射机制性能问题.iml" />
       <module fileurl="file://$PROJECT_DIR$/5.反射操作泛型/5.反射操作泛型.iml" filepath="$PROJECT_DIR$/5.反射操作泛型/5.反射操作泛型.iml" />
       <module fileurl="file://$PROJECT_DIR$/6.动态编译/6.动态编译.iml" filepath="$PROJECT_DIR$/6.动态编译/6.动态编译.iml" />
+      <module fileurl="file://$PROJECT_DIR$/7.脚本引擎执行JavaScript/7.脚本引擎执行JavaScript.iml" filepath="$PROJECT_DIR$/7.脚本引擎执行JavaScript/7.脚本引擎执行JavaScript.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/反射机制.iml" filepath="$PROJECT_DIR$/.idea/反射机制.iml" />
     </modules>
   </component>
