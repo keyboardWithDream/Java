@@ -1,4 +1,4 @@
-package reflection;
+package reflection_api;
 
 /**
  * java.lang.Class 对象的获取方式
