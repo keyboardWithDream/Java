@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/1.JDBC快速入门/1.JDBC快速入门.iml" filepath="$PROJECT_DIR$/1.JDBC快速入门/1.JDBC快速入门.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2.ResultSet与创建对象/2.ResultSet与创建对象.iml" filepath="$PROJECT_DIR$/2.ResultSet与创建对象/2.ResultSet与创建对象.iml" />
+      <module fileurl="file://$PROJECT_DIR$/3.JDBC_Utils/3.JDBC_Utils.iml" filepath="$PROJECT_DIR$/3.JDBC_Utils/3.JDBC_Utils.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/JDBC.iml" filepath="$PROJECT_DIR$/.idea/JDBC.iml" />
     </modules>
   </component>
