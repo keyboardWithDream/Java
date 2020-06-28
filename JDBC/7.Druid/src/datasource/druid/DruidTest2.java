@@ -2,11 +2,10 @@ package datasource.druid;
 
 import datasource.utils.JDBCUtils;
 
-import javax.sql.DataSource;
 import java.sql.Connection;
 import java.sql.PreparedStatement;
 import java.sql.SQLException;
-import java.sql.Statement;
+
 
 /**
  * 使用工具类

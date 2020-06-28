@@ -9,6 +9,7 @@
       <module fileurl="file://$PROJECT_DIR$/5.JDBC_Transaction/5.JDBC_Transaction.iml" filepath="$PROJECT_DIR$/5.JDBC_Transaction/5.JDBC_Transaction.iml" />
       <module fileurl="file://$PROJECT_DIR$/6.C3P0/6.C3P0.iml" filepath="$PROJECT_DIR$/6.C3P0/6.C3P0.iml" />
       <module fileurl="file://$PROJECT_DIR$/7.Druid/7.Druid.iml" filepath="$PROJECT_DIR$/7.Druid/7.Druid.iml" />
+      <module fileurl="file://$PROJECT_DIR$/8.SpringJDBC/8.SpringJDBC.iml" filepath="$PROJECT_DIR$/8.SpringJDBC/8.SpringJDBC.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/JDBC.iml" filepath="$PROJECT_DIR$/.idea/JDBC.iml" />
     </modules>
   </component>
