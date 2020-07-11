@@ -1,12 +1,16 @@
 package jsoup;
 
+import cn.wanghaomiao.xpath.model.JXNode;
 import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
 import org.jsoup.select.Elements;
+import cn.wanghaomiao.xpath.model.JXDocument;
 
 import java.io.File;
 import java.io.IOException;
+import java.net.URL;
+import java.util.List;
 import java.util.Objects;
 
 /**
@@ -29,5 +33,20 @@ public class JsoupLearn {
         //3.2获取数据
         String name = element.text();
         System.out.println(name);
+
+        //网络资源解析
+        URL url = new URL("https://www.baidu.com");
+        Document documentBaidu = Jsoup.parse(url, 5000);
+        System.out.println(documentBaidu.html());
+
+        System.out.println("======================================");
+
+        //XPath查询
+        JXDocument jxDocument = new JXDocument(document);
+        //查询语法
+        List<JXNode> jxNodeList = jxDocument.selN("//name");
+        for (JXNode jxNode : jxNodeList) {
+            System.out.println(jxNode);
+        }
     }
 }
