@@ -50,6 +50,7 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/Java.iml" filepath="$PROJECT_DIR$/.idea/Java.iml" />
       <module fileurl="file://$PROJECT_DIR$/I/O流/I/O流.iml" filepath="$PROJECT_DIR$/I/O流/I/O流.iml" />
       <module fileurl="file://$PROJECT_DIR$/WebServer/WebServer.iml" filepath="$PROJECT_DIR$/WebServer/WebServer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/XML/XML.iml" filepath="$PROJECT_DIR$/XML/XML.iml" />
       <module fileurl="file://$PROJECT_DIR$/单元测试/单元测试.iml" filepath="$PROJECT_DIR$/单元测试/单元测试.iml" />
       <module fileurl="file://$PROJECT_DIR$/反射机制/反射机制.iml" filepath="$PROJECT_DIR$/反射机制/反射机制.iml" />
       <module fileurl="file://$PROJECT_DIR$/多线程/多线程.iml" filepath="$PROJECT_DIR$/多线程/多线程.iml" />

@@ -1,0 +1,1830 @@
+Index: out/production/32.文件类/file/text.txt
+===================================================================
+--- out/production/32.文件类/file/text.txt	(revision a9854443682fa892bc8d32b7b94cdae3372113f1)
++++ out/production/32.文件类/file/text.txt	(revision a9854443682fa892bc8d32b7b94cdae3372113f1)
+@@ -1,101 +0,0 @@
+-1.
+-独坐敬亭山   唐 李白 众鸟高飞尽，孤云独去闲。
+-相看两不厌，只有敬亭山。
+-2、
+-竹里馆     唐 王维 独坐幽篁里，弹琴复长啸。
+-深林人不知，明月来相照。
+-3、
+-咏风    唐 虞世南 逐舞飘轻袖，传歌共绕梁。
+-动枝生乱影，吹花送远香。
+-4、
+-蝉     唐 虞世南 垂缕饮清露，流响出疏桐。
+-居高声自远，非是藉秋风。
+-5、
+-送兄    唐 七岁女 别路云初起，离亭叶正稀。
+-所嗟人亦雁，不作一行飞。
+-6、
+-易水送别  唐 骆宾王 此地别燕丹，壮士发冲冠。
+-昔时人已没，今日水犹寒。
+-7、
+-中秋夜    唐 李峤 圆魄上寒空，皆言四海同。
+-安知千里外，不有雨兼风？ 
+-8、
+-山中   唐 王勃 长江悲已滞，万里念将归。
+-况属高风晚，山山黄叶飞。
+-9、
+-渡汉江   唐 宋之问 岭外音书断，经冬复立春。
+-近乡情更怯，不敢问来人。
+-10、
+-登幽州台歌  唐 陈子昂 前不见古人，后不见来者。
+-念天地之悠悠，独怆然而涕下。
+-11、
+-照镜见白发  唐 张九龄 宿昔青云志，蹉跎白发年。
+-谁知明镜里，形影自相怜。
+-12、
+-送朱大人入秦  唐 孟浩然 游人五陵去，宝剑值千金。
+-分手脱相赠，平生一片心。
+-13、
+-中南望馀雪  唐 祖咏 终南阴岭秀，积雪浮云端。
+-林表明霁色，城中增暮寒 14、寄令狐郎中 唐 李商隐 嵩云秦树久离居，双鲤迢迢一纸书。
+-休问梁园旧宾客，茂陵秋雨病相如。
+-15、
+-春宫曲 唐 王昌龄
+-昨夜风开露井桃，未央前殿月轮高。
+-平阳歌舞新承宠，帘外春寒赐锦袍。
+-16、
+-月夜 唐 刘方平
+-更深月色半人家，北斗阑干南斗斜。
+-今夜偏知春气暖，虫声新透绿窗纱。
+-17、
+-题金陵渡 唐 张祜
+-金陵津渡小山楼，一宿行人自可愁。
+-潮落夜江斜月里，两三星火是瓜州。
+-18、
+- 赠别二首·其一 唐 杜牧 娉娉袅袅十三余，豆蔻梢头二月初。
+-春风十里扬州路，卷上珠帘总不如。
+-19、
+-望岳 唐 杜甫 岱宗夫如何？齐鲁青未了。
+-造化钟神秀，阴阳割昏晓。
+-荡胸生曾云，决眦入归鸟。
+-会当凌绝顶，一览众山小。
+-20、渔家傲·塞下秋来风景异 
+-塞下秋来风景异，衡阳雁去无留意。四面边声连角起。千嶂里，长烟落日孤城闭。
+-浊酒一杯家万里，燕然未勒归无计，羌管悠悠霜满地。人不寐，将军白发征夫泪。
+-21、
+-醉花阴·薄雾浓云愁永昼李清照
+-薄雾浓云愁永昼，瑞脑消金兽。佳节又重阳，玉枕纱厨，半夜凉初透。
+-东篱把酒黄昏后，有暗香盈袖。莫道不消魂。帘卷西风，人比黄花瘦。
+-22、
+-声声慢·寻寻觅觅 李清照
+-寻寻觅觅，冷冷清清，凄凄惨惨戚戚。
+-乍暖还寒时候，最难将息。
+-23、
+-念奴娇 赤壁怀古苏轼 大江东去，浪淘尽，千古风流人物。
+-故垒西边，人道是，三国周郎赤壁。
+-24、
+-雨霖铃·寒蝉凄切 柳永
+-寒蝉凄切，对长亭晚，骤雨初歇。都门帐饮无绪，留恋处，兰舟催发。执手相看泪眼，竟无语凝噎。念去去，千里烟波，暮霭沉沉楚天阔。
+-多情自古伤离别，更那堪冷落清秋节！今宵酒醒何处？杨柳岸，晓风残月。此去经年，应是良辰好景虚设。便纵有千种风情，更与何人说？ 25、 浣溪沙秦观 
+-漠漠轻寒上小楼，晓阴无赖似穷秋，淡烟滚滚画屏幽。
+-自在飞花轻似梦，无边丝雨细如愁，宝帘闲挂小银钩。
+-26、
+-永遇乐·落日熔金李清照
+-落日熔金，暮云合璧，人在何处。染柳烟浓，吹梅笛怨，春意知几许。元宵佳节，融和天气，次第岂无风雨。来相召、香车宝马，谢他酒朋诗侣。
+-中州盛日，闺门多暇，记得偏重三五。铺翠冠儿，捻金雪柳，簇带争济楚。如今憔悴，风鬟霜鬓，怕见夜间出去。不如向、帘儿底下，听人笑语。
+-27、
+-临江仙 夜登小阁，忆洛中旧游陈与义
+-忆昔午桥桥上饮，坐中多是豪英。长沟流月去无声。杏花疏影里，吹笛到天明。
+-二十余年如一梦，此身虽在堪惊。闲登小阁看新晴。古今多少事，渔唱起三更。
+-28、
+-水龙吟 次歆林圣予惜春 晁补之
+-问春何苦匆匆，带风伴雨如驰骤。幽葩细萼，小园低槛，壅培未就。吹尽繁红，占春长久，不如垂柳。算春常不老，人愁春花，愁只是、人间有。
+-春恨十常八九。忍轻辜、芳醪经口。那知自是，桃花结子，不因春瘦。世上功名，老来风味，春归时候。纵樽前痛饮，狂歌似旧，情难依旧。
+-29、
+-忆少年·无穷官柳晁补之 无穷官柳，无柳画舸，无根行客。
+-南山尚相送，只高城人隔。
+-30、
+-临江仙·忆昔西池池上饮晁冲之 忆昔西池池上饮，年年多少欢娱。
+-别来不寄一行书，寻常相见了，犹道不如初。
+-31.
+-夏日田园杂兴·其七 宋代：范成大  昼出耘田夜绩麻，村庄儿女各当家。
+-童孙未解供耕织，也傍桑阴学种瓜。
+\ No newline at end of file
+Index: out/production/34.异常/test.txt
+===================================================================
+--- out/production/34.异常/test.txt	(revision a9854443682fa892bc8d32b7b94cdae3372113f1)
++++ out/production/34.异常/test.txt	(revision a9854443682fa892bc8d32b7b94cdae3372113f1)
+@@ -1,1 +0,0 @@
+-abcdefghijklmnopqrstuvwsyz
+\ No newline at end of file
+Index: Rename/.idea/inspectionProfiles/Project_Default.xml
+===================================================================
+--- Rename/.idea/inspectionProfiles/Project_Default.xml	(revision a9854443682fa892bc8d32b7b94cdae3372113f1)
++++ Rename/.idea/inspectionProfiles/Project_Default.xml	(revision a9854443682fa892bc8d32b7b94cdae3372113f1)
+@@ -1,36 +0,0 @@
+-<component name="InspectionProjectProfileManager">
+-  <profile version="1.0">
+-    <option name="myName" value="Project Default" />
+-    <inspection_tool class="JavaDoc" enabled="true" level="WARNING" enabled_by_default="true">
+-      <option name="TOP_LEVEL_CLASS_OPTIONS">
+-        <value>
+-          <option name="ACCESS_JAVADOC_REQUIRED_FOR" value="none" />
+-          <option name="REQUIRED_TAGS" value="" />
+-        </value>
+-      </option>
+-      <option name="INNER_CLASS_OPTIONS">
+-        <value>
+-          <option name="ACCESS_JAVADOC_REQUIRED_FOR" value="none" />
+-          <option name="REQUIRED_TAGS" value="" />
+-        </value>
+-      </option>
+-      <option name="METHOD_OPTIONS">
+-        <value>
+-          <option name="ACCESS_JAVADOC_REQUIRED_FOR" value="none" />
+-          <option name="REQUIRED_TAGS" value="@return@param@throws or @exception" />
+-        </value>
+-      </option>
+-      <option name="FIELD_OPTIONS">
+-        <value>
+-          <option name="ACCESS_JAVADOC_REQUIRED_FOR" value="none" />
+-          <option name="REQUIRED_TAGS" value="" />
+-        </value>
+-      </option>
+-      <option name="IGNORE_DEPRECATED" value="false" />
+-      <option name="IGNORE_JAVADOC_PERIOD" value="true" />
+-      <option name="IGNORE_DUPLICATED_THROWS" value="false" />
+-      <option name="IGNORE_POINT_TO_ITSELF" value="false" />
+-      <option name="myAdditionalJavadocTags" value="date" />
+-    </inspection_tool>
+-  </profile>
+-</component>
+\ No newline at end of file
+Index: Rename/.idea/misc.xml
+===================================================================
+--- Rename/.idea/misc.xml	(revision a9854443682fa892bc8d32b7b94cdae3372113f1)
++++ Rename/.idea/misc.xml	(revision a9854443682fa892bc8d32b7b94cdae3372113f1)
+@@ -1,15 +0,0 @@
+-<?xml version="1.0" encoding="UTF-8"?>
+-<project version="4">
+-  <component name="FindBugsConfigurable">
+-    <option name="make" value="true" />
+-    <option name="effort" value="default" />
+-    <option name="priority" value="Medium" />
+-    <option name="excludeFilter" value="" />
+-  </component>
+-  <component name="ProjectRootManager" version="2" languageLevel="JDK_14" default="true" project-jdk-name="14" project-jdk-type="JavaSDK">
+-    <output url="file://$PROJECT_DIR$/out" />
+-  </component>
+-  <component name="SuppressionsComponent">
+-    <option name="suppComments" value="[]" />
+-  </component>
+-</project>
+\ No newline at end of file
+Index: Rename/.idea/qaplug_profiles.xml
+===================================================================
+--- Rename/.idea/qaplug_profiles.xml	(revision a9854443682fa892bc8d32b7b94cdae3372113f1)
++++ Rename/.idea/qaplug_profiles.xml	(revision a9854443682fa892bc8d32b7b94cdae3372113f1)
+@@ -1,465 +0,0 @@
+-<?xml version="1.0" encoding="UTF-8"?>
+-<project version="4">
+-  <component name="AnalysisProjectProfileManager">
+-    <option name="PROJECT_PROFILE" value="Project Default" />
+-    <option name="USE_PROJECT_LEVEL_SETTINGS" value="false" />
+-    <scopes />
+-    <profiles>
+-      <profile profile_name="Project Default" version="1.0" is_locked="false">
+-        <coding_rule class="AM_CREATES_EMPTY_JAR_FILE_ENTRY" level="MAJOR" enabled="true" />
+-        <coding_rule class="AM_CREATES_EMPTY_ZIP_FILE_ENTRY" level="MAJOR" enabled="true" />
+-        <coding_rule class="AT_OPERATION_SEQUENCE_ON_CONCURRENT_ABSTRACTION" level="CRITICAL" enabled="false" />
+-        <coding_rule class="BAC_BAD_APPLET_CONSTRUCTOR" level="MAJOR" enabled="false" />
+-        <coding_rule class="BC_BAD_CAST_TO_ABSTRACT_COLLECTION" level="MAJOR" enabled="true" />
+-        <coding_rule class="BC_BAD_CAST_TO_CONCRETE_COLLECTION" level="CRITICAL" enabled="true" />
+-        <coding_rule class="BC_EQUALS_METHOD_SHOULD_WORK_FOR_ALL_OBJECTS" level="CRITICAL" enabled="true" />
+-        <coding_rule class="BC_IMPOSSIBLE_CAST" level="BLOCKER" enabled="true" />
+-        <coding_rule class="BC_IMPOSSIBLE_DOWNCAST" level="MAJOR" enabled="false" />
+-        <coding_rule class="BC_IMPOSSIBLE_DOWNCAST_OF_TOARRAY" level="MAJOR" enabled="false" />
+-        <coding_rule class="BC_IMPOSSIBLE_INSTANCEOF" level="CRITICAL" enabled="true" />
+-        <coding_rule class="BC_UNCONFIRMED_CAST" level="CRITICAL" enabled="true" />
+-        <coding_rule class="BC_UNCONFIRMED_CAST_OF_RETURN_VALUE" level="CRITICAL" enabled="false" />
+-        <coding_rule class="BC_VACUOUS_INSTANCEOF" level="CRITICAL" enabled="true" />
+-        <coding_rule class="BIT_ADD_OF_SIGNED_BYTE" level="CRITICAL" enabled="true" />
+-        <coding_rule class="BIT_AND" level="CRITICAL" enabled="true" />
+-        <coding_rule class="BIT_AND_ZZ" level="CRITICAL" enabled="true" />
+-        <coding_rule class="BIT_IOR" level="CRITICAL" enabled="true" />
+-        <coding_rule class="BIT_IOR_OF_SIGNED_BYTE" level="CRITICAL" enabled="true" />
+-        <coding_rule class="BIT_SIGNED_CHECK" level="CRITICAL" enabled="true" />
+-        <coding_rule class="BIT_SIGNED_CHECK_HIGH_BIT" level="CRITICAL" enabled="true" />
+-        <coding_rule class="BOA_BADLY_OVERRIDDEN_ADAPTER" level="CRITICAL" enabled="true" />
+-        <coding_rule class="BSHIFT_WRONG_ADD_PRIORITY" level="MAJOR" enabled="false" />
+-        <coding_rule class="BX_BOXING_IMMEDIATELY_UNBOXED" level="MAJOR" enabled="true" />
+-        <coding_rule class="BX_BOXING_IMMEDIATELY_UNBOXED_TO_PERFORM_COERCION" level="MAJOR" enabled="true" />
+-        <coding_rule class="BX_UNBOXED_AND_COERCED_FOR_TERNARY_OPERATOR" level="MAJOR" enabled="true" />
+-        <coding_rule class="BX_UNBOXING_IMMEDIATELY_REBOXED" level="CRITICAL" enabled="false" />
+-        <coding_rule class="CAA_COVARIANT_ARRAY_ELEMENT_STORE" level="MAJOR" enabled="false" />
+-        <coding_rule class="CAA_COVARIANT_ARRAY_FIELD" level="MAJOR" enabled="false" />
+-        <coding_rule class="CAA_COVARIANT_ARRAY_LOCAL" level="MAJOR" enabled="false" />
+-        <coding_rule class="CAA_COVARIANT_ARRAY_RETURN" level="MAJOR" enabled="false" />
+-        <coding_rule class="CD_CIRCULAR_DEPENDENCY" level="MAJOR" enabled="false" />
+-        <coding_rule class="CI_CONFUSED_INHERITANCE" level="MINOR" enabled="true" />
+-        <coding_rule class="CNT_ROUGH_CONSTANT_VALUE" level="MAJOR" enabled="false" />
+-        <coding_rule class="CN_IDIOM" level="MAJOR" enabled="true" />
+-        <coding_rule class="CN_IDIOM_NO_SUPER_CALL" level="MAJOR" enabled="true" />
+-        <coding_rule class="CN_IMPLEMENTS_CLONE_BUT_NOT_CLONEABLE" level="MAJOR" enabled="true" />
+-        <coding_rule class="CO_ABSTRACT_SELF" level="MAJOR" enabled="true" />
+-        <coding_rule class="CO_COMPARETO_INCORRECT_FLOATING" level="MAJOR" enabled="false" />
+-        <coding_rule class="CO_COMPARETO_RESULTS_MIN_VALUE" level="CRITICAL" enabled="false" />
+-        <coding_rule class="CO_SELF_NO_OBJECT" level="MAJOR" enabled="true" />
+-        <coding_rule class="DB_DUPLICATE_BRANCHES" level="CRITICAL" enabled="true" />
+-        <coding_rule class="DB_DUPLICATE_SWITCH_CLAUSES" level="CRITICAL" enabled="true" />
+-        <coding_rule class="DC_DOUBLECHECK" level="MAJOR" enabled="true" />
+-        <coding_rule class="DC_PARTIALLY_CONSTRUCTED" level="MAJOR" enabled="false" />
+-        <coding_rule class="DE_MIGHT_DROP" level="MAJOR" enabled="true" />
+-        <coding_rule class="DE_MIGHT_IGNORE" level="MAJOR" enabled="true" />
+-        <coding_rule class="DLS_DEAD_LOCAL_INCREMENT_IN_RETURN" level="MAJOR" enabled="false" />
+-        <coding_rule class="DLS_DEAD_LOCAL_STORE" level="CRITICAL" enabled="true" />
+-        <coding_rule class="DLS_DEAD_LOCAL_STORE_IN_RETURN" level="CRITICAL" enabled="true" />
+-        <coding_rule class="DLS_DEAD_LOCAL_STORE_OF_NULL" level="CRITICAL" enabled="true" />
+-        <coding_rule class="DLS_DEAD_LOCAL_STORE_SHADOWS_FIELD" level="CRITICAL" enabled="false" />
+-        <coding_rule class="DLS_DEAD_STORE_OF_CLASS_LITERAL" level="CRITICAL" enabled="true" />
+-        <coding_rule class="DLS_OVERWRITTEN_INCREMENT" level="CRITICAL" enabled="true" />
+-        <coding_rule class="DL_SYNCHRONIZATION_ON_BOOLEAN" level="CRITICAL" enabled="true" />
+-        <coding_rule class="DL_SYNCHRONIZATION_ON_BOXED_PRIMITIVE" level="CRITICAL" enabled="true" />
+-        <coding_rule class="DL_SYNCHRONIZATION_ON_SHARED_CONSTANT" level="CRITICAL" enabled="true" />
+-        <coding_rule class="DL_SYNCHRONIZATION_ON_UNSHARED_BOXED_PRIMITIVE" level="CRITICAL" enabled="true" />
+-        <coding_rule class="DMI_ANNOTATION_IS_NOT_VISIBLE_TO_REFLECTION" level="MAJOR" enabled="true" />
+-        <coding_rule class="DMI_ARGUMENTS_WRONG_ORDER" level="CRITICAL" enabled="false" />
+-        <coding_rule class="DMI_BAD_MONTH" level="CRITICAL" enabled="true" />
+-        <coding_rule class="DMI_BIGDECIMAL_CONSTRUCTED_FROM_DOUBLE" level="CRITICAL" enabled="false" />
+-        <coding_rule class="DMI_BLOCKING_METHODS_ON_URL" level="BLOCKER" enabled="true" />
+-        <coding_rule class="DMI_CALLING_NEXT_FROM_HASNEXT" level="CRITICAL" enabled="true" />
+-        <coding_rule class="DMI_COLLECTIONS_SHOULD_NOT_CONTAIN_THEMSELVES" level="CRITICAL" enabled="true" />
+-        <coding_rule class="DMI_COLLECTION_OF_URLS" level="BLOCKER" enabled="true" />
+-        <coding_rule class="DMI_CONSTANT_DB_PASSWORD" level="BLOCKER" enabled="true" />
+-        <coding_rule class="DMI_DOH" level="CRITICAL" enabled="false" />
+-        <coding_rule class="DMI_EMPTY_DB_PASSWORD" level="CRITICAL" enabled="true" />
+-        <coding_rule class="DMI_ENTRY_SETS_MAY_REUSE_ENTRY_OBJECTS" level="CRITICAL" enabled="false" />
+-        <coding_rule class="DMI_FUTILE_ATTEMPT_TO_CHANGE_MAXPOOL_SIZE_OF_SCHEDULED_THREAD_POOL_EXECUTOR" level="MINOR" enabled="true" />
+-        <coding_rule class="DMI_HARDCODED_ABSOLUTE_FILENAME" level="CRITICAL" enabled="true" />
+-        <coding_rule class="DMI_INVOKING_HASHCODE_ON_ARRAY" level="CRITICAL" enabled="true" />
+-        <coding_rule class="DMI_INVOKING_TOSTRING_ON_ANONYMOUS_ARRAY" level="CRITICAL" enabled="true" />
+-        <coding_rule class="DMI_INVOKING_TOSTRING_ON_ARRAY" level="CRITICAL" enabled="true" />
+-        <coding_rule class="DMI_LONG_BITS_TO_DOUBLE_INVOKED_ON_INT" level="CRITICAL" enabled="true" />
+-        <coding_rule class="DMI_NONSERIALIZABLE_OBJECT_WRITTEN" level="CRITICAL" enabled="true" />
+-        <coding_rule class="DMI_RANDOM_USED_ONLY_ONCE" level="CRITICAL" enabled="true" />
+-        <coding_rule class="DMI_SCHEDULED_THREAD_POOL_EXECUTOR_WITH_ZERO_CORE_THREADS" level="MINOR" enabled="true" />
+-        <coding_rule class="DMI_THREAD_PASSED_WHERE_RUNNABLE_EXPECTED" level="MAJOR" enabled="true" />
+-        <coding_rule class="DMI_UNSUPPORTED_METHOD" level="MAJOR" enabled="true" />
+-        <coding_rule class="DMI_USELESS_SUBSTRING" level="CRITICAL" enabled="true" />
+-        <coding_rule class="DMI_USING_REMOVEALL_TO_CLEAR_COLLECTION" level="CRITICAL" enabled="true" />
+-        <coding_rule class="DMI_VACUOUS_CALL_TO_EASYMOCK_METHOD" level="MINOR" enabled="true" />
+-        <coding_rule class="DMI_VACUOUS_SELF_COLLECTION_CALL" level="CRITICAL" enabled="true" />
+-        <coding_rule class="DM_BOOLEAN_CTOR" level="MAJOR" enabled="true" />
+-        <coding_rule class="DM_BOXED_PRIMITIVE_FOR_COMPARE" level="MAJOR" enabled="false" />
+-        <coding_rule class="DM_BOXED_PRIMITIVE_FOR_PARSING" level="MAJOR" enabled="false" />
+-        <coding_rule class="DM_BOXED_PRIMITIVE_TOSTRING" level="MAJOR" enabled="true" />
+-        <coding_rule class="DM_CONVERT_CASE" level="INFO" enabled="true" />
+-        <coding_rule class="DM_DEFAULT_ENCODING" level="CRITICAL" enabled="false" />
+-        <coding_rule class="DM_EXIT" level="MAJOR" enabled="true" />
+-        <coding_rule class="DM_FP_NUMBER_CTOR" level="MAJOR" enabled="true" />
+-        <coding_rule class="DM_GC" level="MAJOR" enabled="true" />
+-        <coding_rule class="DM_INVALID_MIN_MAX" level="MAJOR" enabled="false" />
+-        <coding_rule class="DM_MONITOR_WAIT_ON_CONDITION" level="MAJOR" enabled="true" />
+-        <coding_rule class="DM_NEW_FOR_GETCLASS" level="MAJOR" enabled="true" />
+-        <coding_rule class="DM_NEXTINT_VIA_NEXTDOUBLE" level="MAJOR" enabled="true" />
+-        <coding_rule class="DM_NUMBER_CTOR" level="CRITICAL" enabled="true" />
+-        <coding_rule class="DM_RUN_FINALIZERS_ON_EXIT" level="MAJOR" enabled="true" />
+-        <coding_rule class="DM_STRING_CTOR" level="MAJOR" enabled="true" />
+-        <coding_rule class="DM_STRING_TOSTRING" level="INFO" enabled="true" />
+-        <coding_rule class="DM_STRING_VOID_CTOR" level="MAJOR" enabled="true" />
+-        <coding_rule class="DM_USELESS_THREAD" level="MAJOR" enabled="true" />
+-        <coding_rule class="DP_CREATE_CLASSLOADER_INSIDE_DO_PRIVILEGED" level="MAJOR" enabled="true" />
+-        <coding_rule class="DP_DO_INSIDE_DO_PRIVILEGED" level="MAJOR" enabled="true" />
+-        <coding_rule class="EC_ARRAY_AND_NONARRAY" level="CRITICAL" enabled="true" />
+-        <coding_rule class="EC_BAD_ARRAY_COMPARE" level="CRITICAL" enabled="true" />
+-        <coding_rule class="EC_INCOMPATIBLE_ARRAY_COMPARE" level="MAJOR" enabled="false" />
+-        <coding_rule class="EC_NULL_ARG" level="CRITICAL" enabled="true" />
+-        <coding_rule class="EC_UNRELATED_CLASS_AND_INTERFACE" level="CRITICAL" enabled="true" />
+-        <coding_rule class="EC_UNRELATED_INTERFACES" level="CRITICAL" enabled="true" />
+-        <coding_rule class="EC_UNRELATED_TYPES" level="CRITICAL" enabled="true" />
+-        <coding_rule class="EC_UNRELATED_TYPES_USING_POINTER_EQUALITY" level="CRITICAL" enabled="true" />
+-        <coding_rule class="EI_EXPOSE_REP" level="MAJOR" enabled="true" />
+-        <coding_rule class="EI_EXPOSE_REP2" level="MAJOR" enabled="true" />
+-        <coding_rule class="EI_EXPOSE_STATIC_REP2" level="MAJOR" enabled="true" />
+-        <coding_rule class="EQ_ABSTRACT_SELF" level="MAJOR" enabled="true" />
+-        <coding_rule class="EQ_ALWAYS_FALSE" level="BLOCKER" enabled="true" />
+-        <coding_rule class="EQ_ALWAYS_TRUE" level="BLOCKER" enabled="true" />
+-        <coding_rule class="EQ_CHECK_FOR_OPERAND_NOT_COMPATIBLE_WITH_THIS" level="MAJOR" enabled="true" />
+-        <coding_rule class="EQ_COMPARETO_USE_OBJECT_EQUALS" level="CRITICAL" enabled="true" />
+-        <coding_rule class="EQ_COMPARING_CLASS_NAMES" level="MAJOR" enabled="true" />
+-        <coding_rule class="EQ_DOESNT_OVERRIDE_EQUALS" level="MAJOR" enabled="false" />
+-        <coding_rule class="EQ_DONT_DEFINE_EQUALS_FOR_ENUM" level="MAJOR" enabled="true" />
+-        <coding_rule class="EQ_GETCLASS_AND_CLASS_CONSTANT" level="CRITICAL" enabled="true" />
+-        <coding_rule class="EQ_OTHER_NO_OBJECT" level="MAJOR" enabled="true" />
+-        <coding_rule class="EQ_OTHER_USE_OBJECT" level="MAJOR" enabled="true" />
+-        <coding_rule class="EQ_OVERRIDING_EQUALS_NOT_SYMMETRIC" level="MAJOR" enabled="true" />
+-        <coding_rule class="EQ_SELF_NO_OBJECT" level="MAJOR" enabled="true" />
+-        <coding_rule class="EQ_SELF_USE_OBJECT" level="MAJOR" enabled="true" />
+-        <coding_rule class="EQ_UNUSUAL" level="MINOR" enabled="true" />
+-        <coding_rule class="ES_COMPARING_PARAMETER_STRING_WITH_EQ" level="MAJOR" enabled="true" />
+-        <coding_rule class="ES_COMPARING_STRINGS_WITH_EQ" level="MAJOR" enabled="true" />
+-        <coding_rule class="ESync_EMPTY_SYNC" level="MAJOR" enabled="true" />
+-        <coding_rule class="FB_MISSING_EXPECTED_WARNING" level="CRITICAL" enabled="false" />
+-        <coding_rule class="FB_UNEXPECTED_WARNING" level="CRITICAL" enabled="false" />
+-        <coding_rule class="FE_FLOATING_POINT_EQUALITY" level="CRITICAL" enabled="true" />
+-        <coding_rule class="FE_TEST_IF_EQUAL_TO_NOT_A_NUMBER" level="CRITICAL" enabled="true" />
+-        <coding_rule class="FI_EMPTY" level="MAJOR" enabled="true" />
+-        <coding_rule class="FI_EXPLICIT_INVOCATION" level="MAJOR" enabled="true" />
+-        <coding_rule class="FI_FINALIZER_NULLS_FIELDS" level="MAJOR" enabled="true" />
+-        <coding_rule class="FI_FINALIZER_ONLY_NULLS_FIELDS" level="MAJOR" enabled="true" />
+-        <coding_rule class="FI_MISSING_SUPER_CALL" level="MAJOR" enabled="true" />
+-        <coding_rule class="FI_NULLIFY_SUPER" level="CRITICAL" enabled="true" />
+-        <coding_rule class="FI_PUBLIC_SHOULD_BE_PROTECTED" level="MAJOR" enabled="true" />
+-        <coding_rule class="FI_USELESS" level="MINOR" enabled="true" />
+-        <coding_rule class="FL_MATH_USING_FLOAT_PRECISION" level="CRITICAL" enabled="true" />
+-        <coding_rule class="GC_UNCHECKED_TYPE_IN_GENERIC_CALL" level="CRITICAL" enabled="true" />
+-        <coding_rule class="GC_UNRELATED_TYPES" level="CRITICAL" enabled="true" />
+-        <coding_rule class="HE_EQUALS_NO_HASHCODE" level="MAJOR" enabled="true" />
+-        <coding_rule class="HE_EQUALS_USE_HASHCODE" level="CRITICAL" enabled="true" />
+-        <coding_rule class="HE_HASHCODE_NO_EQUALS" level="CRITICAL" enabled="true" />
+-        <coding_rule class="HE_HASHCODE_USE_OBJECT_EQUALS" level="CRITICAL" enabled="true" />
+-        <coding_rule class="HE_INHERITS_EQUALS_USE_HASHCODE" level="CRITICAL" enabled="true" />
+-        <coding_rule class="HE_SIGNATURE_DECLARES_HASHING_OF_UNHASHABLE_CLASS" level="CRITICAL" enabled="true" />
+-        <coding_rule class="HE_USE_OF_UNHASHABLE_CLASS" level="CRITICAL" enabled="true" />
+-        <coding_rule class="HRS_REQUEST_PARAMETER_TO_COOKIE" level="MAJOR" enabled="true" />
+-        <coding_rule class="HRS_REQUEST_PARAMETER_TO_HTTP_HEADER" level="MAJOR" enabled="true" />
+-        <coding_rule class="HSC_HUGE_SHARED_STRING_CONSTANT" level="CRITICAL" enabled="true" />
+-        <coding_rule class="IA_AMBIGUOUS_INVOCATION_OF_INHERITED_OR_OUTER_METHOD" level="MAJOR" enabled="true" />
+-        <coding_rule class="ICAST_BAD_SHIFT_AMOUNT" level="CRITICAL" enabled="true" />
+-        <coding_rule class="ICAST_IDIV_CAST_TO_DOUBLE" level="CRITICAL" enabled="true" />
+-        <coding_rule class="ICAST_INTEGER_MULTIPLY_CAST_TO_LONG" level="CRITICAL" enabled="true" />
+-        <coding_rule class="ICAST_INT_2_LONG_AS_INSTANT" level="CRITICAL" enabled="false" />
+-        <coding_rule class="ICAST_INT_CAST_TO_DOUBLE_PASSED_TO_CEIL" level="CRITICAL" enabled="true" />
+-        <coding_rule class="ICAST_INT_CAST_TO_FLOAT_PASSED_TO_ROUND" level="CRITICAL" enabled="true" />
+-        <coding_rule class="ICAST_QUESTIONABLE_UNSIGNED_RIGHT_SHIFT" level="CRITICAL" enabled="true" />
+-        <coding_rule class="IC_INIT_CIRCULARITY" level="CRITICAL" enabled="true" />
+-        <coding_rule class="IC_SUPERCLASS_USES_SUBCLASS_DURING_INITIALIZATION" level="MAJOR" enabled="true" />
+-        <coding_rule class="IIL_ELEMENTS_GET_LENGTH_IN_LOOP" level="MAJOR" enabled="false" />
+-        <coding_rule class="IIL_PATTERN_COMPILE_IN_LOOP" level="MAJOR" enabled="false" />
+-        <coding_rule class="IIL_PATTERN_COMPILE_IN_LOOP_INDIRECT" level="MAJOR" enabled="false" />
+-        <coding_rule class="IIL_PREPARE_STATEMENT_IN_LOOP" level="MAJOR" enabled="false" />
+-        <coding_rule class="IIO_INEFFICIENT_INDEX_OF" level="MAJOR" enabled="false" />
+-        <coding_rule class="IIO_INEFFICIENT_LAST_INDEX_OF" level="MAJOR" enabled="false" />
+-        <coding_rule class="IJU_ASSERT_METHOD_INVOKED_FROM_RUN_METHOD" level="CRITICAL" enabled="true" />
+-        <coding_rule class="IJU_BAD_SUITE_METHOD" level="CRITICAL" enabled="true" />
+-        <coding_rule class="IJU_NO_TESTS" level="CRITICAL" enabled="true" />
+-        <coding_rule class="IJU_SETUP_NO_SUPER" level="CRITICAL" enabled="true" />
+-        <coding_rule class="IJU_SUITE_NOT_STATIC" level="CRITICAL" enabled="true" />
+-        <coding_rule class="IJU_TEARDOWN_NO_SUPER" level="CRITICAL" enabled="true" />
+-        <coding_rule class="IL_CONTAINER_ADDED_TO_ITSELF" level="CRITICAL" enabled="true" />
+-        <coding_rule class="IL_INFINITE_LOOP" level="CRITICAL" enabled="true" />
+-        <coding_rule class="IL_INFINITE_RECURSIVE_LOOP" level="CRITICAL" enabled="true" />
+-        <coding_rule class="IMA_INEFFICIENT_MEMBER_ACCESS" level="MAJOR" enabled="false" />
+-        <coding_rule class="IMSE_DONT_CATCH_IMSE" level="MAJOR" enabled="true" />
+-        <coding_rule class="IM_AVERAGE_COMPUTATION_COULD_OVERFLOW" level="CRITICAL" enabled="true" />
+-        <coding_rule class="IM_BAD_CHECK_FOR_ODD" level="CRITICAL" enabled="true" />
+-        <coding_rule class="IM_MULTIPLYING_RESULT_OF_IREM" level="CRITICAL" enabled="true" />
+-        <coding_rule class="INT_BAD_COMPARISON_WITH_INT_VALUE" level="CRITICAL" enabled="false" />
+-        <coding_rule class="INT_BAD_COMPARISON_WITH_NONNEGATIVE_VALUE" level="CRITICAL" enabled="true" />
+-        <coding_rule class="INT_BAD_COMPARISON_WITH_SIGNED_BYTE" level="CRITICAL" enabled="true" />
+-        <coding_rule class="INT_BAD_REM_BY_1" level="CRITICAL" enabled="true" />
+-        <coding_rule class="INT_VACUOUS_BIT_OPERATION" level="CRITICAL" enabled="true" />
+-        <coding_rule class="INT_VACUOUS_COMPARISON" level="CRITICAL" enabled="true" />
+-        <coding_rule class="IO_APPENDING_TO_OBJECT_OUTPUT_STREAM" level="CRITICAL" enabled="true" />
+-        <coding_rule class="IP_PARAMETER_IS_DEAD_BUT_OVERWRITTEN" level="CRITICAL" enabled="true" />
+-        <coding_rule class="IS2_INCONSISTENT_SYNC" level="CRITICAL" enabled="true" />
+-        <coding_rule class="ISC_INSTANTIATE_STATIC_CLASS" level="MAJOR" enabled="true" />
+-        <coding_rule class="IS_FIELD_NOT_GUARDED" level="CRITICAL" enabled="true" />
+-        <coding_rule class="ITA_INEFFICIENT_TO_ARRAY" level="CRITICAL" enabled="true" />
+-        <coding_rule class="IT_NO_SUCH_ELEMENT" level="MINOR" enabled="true" />
+-        <coding_rule class="J2EE_STORE_OF_NON_SERIALIZABLE_OBJECT_INTO_SESSION" level="CRITICAL" enabled="true" />
+-        <coding_rule class="JCIP_FIELD_ISNT_FINAL_IN_IMMUTABLE_CLASS" level="MINOR" enabled="true" />
+-        <coding_rule class="JLM_JSR166_LOCK_MONITORENTER" level="CRITICAL" enabled="true" />
+-        <coding_rule class="JLM_JSR166_UTILCONCURRENT_MONITORENTER" level="CRITICAL" enabled="false" />
+-        <coding_rule class="JML_JSR166_CALLING_WAIT_RATHER_THAN_AWAIT" level="CRITICAL" enabled="false" />
+-        <coding_rule class="LG_LOST_LOGGER_DUE_TO_WEAK_REFERENCE" level="MAJOR" enabled="false" />
+-        <coding_rule class="LI_LAZY_INIT_STATIC" level="CRITICAL" enabled="true" />
+-        <coding_rule class="LI_LAZY_INIT_UPDATE_STATIC" level="CRITICAL" enabled="true" />
+-        <coding_rule class="ME_ENUM_FIELD_SETTER" level="MAJOR" enabled="false" />
+-        <coding_rule class="ME_MUTABLE_ENUM_FIELD" level="MAJOR" enabled="false" />
+-        <coding_rule class="MF_CLASS_MASKS_FIELD" level="MAJOR" enabled="true" />
+-        <coding_rule class="MF_METHOD_MASKS_FIELD" level="MAJOR" enabled="true" />
+-        <coding_rule class="ML_SYNC_ON_FIELD_TO_GUARD_CHANGING_THAT_FIELD" level="MAJOR" enabled="true" />
+-        <coding_rule class="ML_SYNC_ON_UPDATED_FIELD" level="MAJOR" enabled="true" />
+-        <coding_rule class="MSF_MUTABLE_SERVLET_FIELD" level="MAJOR" enabled="true" />
+-        <coding_rule class="MS_CANNOT_BE_FINAL" level="MAJOR" enabled="true" />
+-        <coding_rule class="MS_EXPOSE_REP" level="CRITICAL" enabled="true" />
+-        <coding_rule class="MS_FINAL_PKGPROTECT" level="MAJOR" enabled="true" />
+-        <coding_rule class="MS_MUTABLE_ARRAY" level="MAJOR" enabled="true" />
+-        <coding_rule class="MS_MUTABLE_COLLECTION" level="MAJOR" enabled="false" />
+-        <coding_rule class="MS_MUTABLE_COLLECTION_PKGPROTECT" level="MAJOR" enabled="false" />
+-        <coding_rule class="MS_MUTABLE_HASHTABLE" level="MAJOR" enabled="true" />
+-        <coding_rule class="MS_OOI_PKGPROTECT" level="MAJOR" enabled="true" />
+-        <coding_rule class="MS_PKGPROTECT" level="MAJOR" enabled="true" />
+-        <coding_rule class="MS_SHOULD_BE_FINAL" level="MAJOR" enabled="true" />
+-        <coding_rule class="MS_SHOULD_BE_REFACTORED_TO_BE_FINAL" level="CRITICAL" enabled="false" />
+-        <coding_rule class="MTIA_SUSPECT_SERVLET_INSTANCE_FIELD" level="CRITICAL" enabled="true" />
+-        <coding_rule class="MTIA_SUSPECT_STRUTS_INSTANCE_FIELD" level="CRITICAL" enabled="true" />
+-        <coding_rule class="MWN_MISMATCHED_NOTIFY" level="CRITICAL" enabled="true" />
+-        <coding_rule class="MWN_MISMATCHED_WAIT" level="CRITICAL" enabled="true" />
+-        <coding_rule class="NM_BAD_EQUAL" level="MAJOR" enabled="false" />
+-        <coding_rule class="NM_CLASS_NAMING_CONVENTION" level="MAJOR" enabled="false" />
+-        <coding_rule class="NM_CLASS_NOT_EXCEPTION" level="MAJOR" enabled="true" />
+-        <coding_rule class="NM_CONFUSING" level="MAJOR" enabled="true" />
+-        <coding_rule class="NM_FIELD_NAMING_CONVENTION" level="MAJOR" enabled="false" />
+-        <coding_rule class="NM_FUTURE_KEYWORD_USED_AS_IDENTIFIER" level="MAJOR" enabled="true" />
+-        <coding_rule class="NM_FUTURE_KEYWORD_USED_AS_MEMBER_IDENTIFIER" level="MAJOR" enabled="true" />
+-        <coding_rule class="NM_LCASE_HASHCODE" level="MAJOR" enabled="false" />
+-        <coding_rule class="NM_LCASE_TOSTRING" level="MAJOR" enabled="false" />
+-        <coding_rule class="NM_METHOD_CONSTRUCTOR_CONFUSION" level="MAJOR" enabled="true" />
+-        <coding_rule class="NM_METHOD_NAMING_CONVENTION" level="MAJOR" enabled="false" />
+-        <coding_rule class="NM_SAME_SIMPLE_NAME_AS_INTERFACE" level="MAJOR" enabled="true" />
+-        <coding_rule class="NM_SAME_SIMPLE_NAME_AS_SUPERCLASS" level="MAJOR" enabled="true" />
+-        <coding_rule class="NM_VERY_CONFUSING" level="MAJOR" enabled="true" />
+-        <coding_rule class="NM_VERY_CONFUSING_INTENTIONAL" level="MAJOR" enabled="true" />
+-        <coding_rule class="NM_WRONG_PACKAGE" level="MAJOR" enabled="true" />
+-        <coding_rule class="NM_WRONG_PACKAGE_INTENTIONAL" level="MAJOR" enabled="true" />
+-        <coding_rule class="NN_NAKED_NOTIFY" level="CRITICAL" enabled="true" />
+-        <coding_rule class="NOISE_FIELD_REFERENCE" level="MAJOR" enabled="false" />
+-        <coding_rule class="NOISE_METHOD_CALL" level="MAJOR" enabled="false" />
+-        <coding_rule class="NOISE_NULL_DEREFERENCE" level="MAJOR" enabled="false" />
+-        <coding_rule class="NOISE_OPERATION" level="MAJOR" enabled="false" />
+-        <coding_rule class="NO_NOTIFY_NOT_NOTIFYALL" level="CRITICAL" enabled="true" />
+-        <coding_rule class="NP_ALWAYS_NULL" level="CRITICAL" enabled="true" />
+-        <coding_rule class="NP_ALWAYS_NULL_EXCEPTION" level="CRITICAL" enabled="true" />
+-        <coding_rule class="NP_ARGUMENT_MIGHT_BE_NULL" level="MAJOR" enabled="true" />
+-        <coding_rule class="NP_BOOLEAN_RETURN_NULL" level="MAJOR" enabled="true" />
+-        <coding_rule class="NP_CLONE_COULD_RETURN_NULL" level="CRITICAL" enabled="true" />
+-        <coding_rule class="NP_CLOSING_NULL" level="MAJOR" enabled="false" />
+-        <coding_rule class="NP_DEREFERENCE_OF_READLINE_VALUE" level="CRITICAL" enabled="true" />
+-        <coding_rule class="NP_EQUALS_SHOULD_HANDLE_NULL_ARGUMENT" level="CRITICAL" enabled="true" />
+-        <coding_rule class="NP_GUARANTEED_DEREF" level="BLOCKER" enabled="true" />
+-        <coding_rule class="NP_GUARANTEED_DEREF_ON_EXCEPTION_PATH" level="CRITICAL" enabled="true" />
+-        <coding_rule class="NP_IMMEDIATE_DEREFERENCE_OF_READLINE" level="CRITICAL" enabled="true" />
+-        <coding_rule class="NP_LOAD_OF_KNOWN_NULL_VALUE" level="CRITICAL" enabled="true" />
+-        <coding_rule class="NP_METHOD_PARAMETER_TIGHTENS_ANNOTATION" level="MAJOR" enabled="false" />
+-        <coding_rule class="NP_METHOD_RETURN_RELAXING_ANNOTATION" level="MAJOR" enabled="false" />
+-        <coding_rule class="NP_NONNULL_FIELD_NOT_INITIALIZED_IN_CONSTRUCTOR" level="CRITICAL" enabled="false" />
+-        <coding_rule class="NP_NONNULL_PARAM_VIOLATION" level="CRITICAL" enabled="true" />
+-        <coding_rule class="NP_NONNULL_RETURN_VIOLATION" level="CRITICAL" enabled="true" />
+-        <coding_rule class="NP_NULL_INSTANCEOF" level="BLOCKER" enabled="true" />
+-        <coding_rule class="NP_NULL_ON_SOME_PATH" level="CRITICAL" enabled="true" />
+-        <coding_rule class="NP_NULL_ON_SOME_PATH_EXCEPTION" level="CRITICAL" enabled="true" />
+-        <coding_rule class="NP_NULL_ON_SOME_PATH_FROM_RETURN_VALUE" level="CRITICAL" enabled="true" />
+-        <coding_rule class="NP_NULL_ON_SOME_PATH_MIGHT_BE_INFEASIBLE" level="CRITICAL" enabled="true" />
+-        <coding_rule class="NP_NULL_PARAM_DEREF" level="CRITICAL" enabled="true" />
+-        <coding_rule class="NP_NULL_PARAM_DEREF_ALL_TARGETS_DANGEROUS" level="CRITICAL" enabled="true" />
+-        <coding_rule class="NP_NULL_PARAM_DEREF_NONVIRTUAL" level="CRITICAL" enabled="true" />
+-        <coding_rule class="NP_OPTIONAL_RETURN_NULL" level="MAJOR" enabled="false" />
+-        <coding_rule class="NP_PARAMETER_MUST_BE_NONNULL_BUT_MARKED_AS_NULLABLE" level="CRITICAL" enabled="true" />
+-        <coding_rule class="NP_STORE_INTO_NONNULL_FIELD" level="CRITICAL" enabled="true" />
+-        <coding_rule class="NP_SYNC_AND_NULL_CHECK_FIELD" level="MAJOR" enabled="true" />
+-        <coding_rule class="NP_TOSTRING_COULD_RETURN_NULL" level="CRITICAL" enabled="true" />
+-        <coding_rule class="NP_UNWRITTEN_FIELD" level="MAJOR" enabled="false" />
+-        <coding_rule class="NP_UNWRITTEN_PUBLIC_OR_PROTECTED_FIELD" level="CRITICAL" enabled="false" />
+-        <coding_rule class="NS_DANGEROUS_NON_SHORT_CIRCUIT" level="CRITICAL" enabled="true" />
+-        <coding_rule class="NS_NON_SHORT_CIRCUIT" level="MAJOR" enabled="true" />
+-        <coding_rule class="OBL_UNSATISFIED_OBLIGATION" level="CRITICAL" enabled="false" />
+-        <coding_rule class="OBL_UNSATISFIED_OBLIGATION_EXCEPTION_EDGE" level="CRITICAL" enabled="false" />
+-        <coding_rule class="ODR_OPEN_DATABASE_RESOURCE" level="CRITICAL" enabled="true" />
+-        <coding_rule class="ODR_OPEN_DATABASE_RESOURCE_EXCEPTION_PATH" level="CRITICAL" enabled="true" />
+-        <coding_rule class="OS_OPEN_STREAM" level="CRITICAL" enabled="true" />
+-        <coding_rule class="OS_OPEN_STREAM_EXCEPTION_PATH" level="CRITICAL" enabled="true" />
+-        <coding_rule class="PS_PUBLIC_SEMAPHORES" level="CRITICAL" enabled="true" />
+-        <coding_rule class="PT_ABSOLUTE_PATH_TRAVERSAL" level="CRITICAL" enabled="false" />
+-        <coding_rule class="PT_RELATIVE_PATH_TRAVERSAL" level="CRITICAL" enabled="false" />
+-        <coding_rule class="PZLA_PREFER_ZERO_LENGTH_ARRAYS" level="MAJOR" enabled="true" />
+-        <coding_rule class="PZ_DONT_REUSE_ENTRY_OBJECTS_IN_ITERATORS" level="CRITICAL" enabled="false" />
+-        <coding_rule class="QBA_QUESTIONABLE_BOOLEAN_ASSIGNMENT" level="CRITICAL" enabled="true" />
+-        <coding_rule class="QF_QUESTIONABLE_FOR_LOOP" level="CRITICAL" enabled="true" />
+-        <coding_rule class="RANGE_ARRAY_INDEX" level="MAJOR" enabled="false" />
+-        <coding_rule class="RANGE_ARRAY_LENGTH" level="MAJOR" enabled="false" />
+-        <coding_rule class="RANGE_ARRAY_OFFSET" level="MAJOR" enabled="false" />
+-        <coding_rule class="RANGE_STRING_INDEX" level="MAJOR" enabled="false" />
+-        <coding_rule class="RCN_REDUNDANT_COMPARISON_OF_NULL_AND_NONNULL_VALUE" level="CRITICAL" enabled="true" />
+-        <coding_rule class="RCN_REDUNDANT_COMPARISON_TWO_NULL_VALUES" level="CRITICAL" enabled="true" />
+-        <coding_rule class="RCN_REDUNDANT_NULLCHECK_OF_NONNULL_VALUE" level="CRITICAL" enabled="true" />
+-        <coding_rule class="RCN_REDUNDANT_NULLCHECK_OF_NULL_VALUE" level="CRITICAL" enabled="true" />
+-        <coding_rule class="RCN_REDUNDANT_NULLCHECK_WOULD_HAVE_BEEN_A_NPE" level="CRITICAL" enabled="true" />
+-        <coding_rule class="RC_REF_COMPARISON" level="CRITICAL" enabled="true" />
+-        <coding_rule class="RC_REF_COMPARISON_BAD_PRACTICE" level="MAJOR" enabled="false" />
+-        <coding_rule class="RC_REF_COMPARISON_BAD_PRACTICE_BOOLEAN" level="MAJOR" enabled="false" />
+-        <coding_rule class="REC_CATCH_EXCEPTION" level="MAJOR" enabled="true" />
+-        <coding_rule class="RE_BAD_SYNTAX_FOR_REGULAR_EXPRESSION" level="CRITICAL" enabled="true" />
+-        <coding_rule class="RE_CANT_USE_FILE_SEPARATOR_AS_REGULAR_EXPRESSION" level="CRITICAL" enabled="true" />
+-        <coding_rule class="RE_POSSIBLE_UNINTENDED_PATTERN" level="CRITICAL" enabled="true" />
+-        <coding_rule class="RI_REDUNDANT_INTERFACES" level="MAJOR" enabled="true" />
+-        <coding_rule class="RR_NOT_CHECKED" level="MAJOR" enabled="true" />
+-        <coding_rule class="RS_READOBJECT_SYNC" level="CRITICAL" enabled="true" />
+-        <coding_rule class="RU_INVOKE_RUN" level="MAJOR" enabled="true" />
+-        <coding_rule class="RV_01_TO_INT" level="MAJOR" enabled="true" />
+-        <coding_rule class="RV_ABSOLUTE_VALUE_OF_HASHCODE" level="CRITICAL" enabled="true" />
+-        <coding_rule class="RV_ABSOLUTE_VALUE_OF_RANDOM_INT" level="CRITICAL" enabled="true" />
+-        <coding_rule class="RV_CHECK_COMPARETO_FOR_SPECIFIC_RETURN_VALUE" level="CRITICAL" enabled="false" />
+-        <coding_rule class="RV_CHECK_FOR_POSITIVE_INDEXOF" level="MINOR" enabled="true" />
+-        <coding_rule class="RV_DONT_JUST_NULL_CHECK_READLINE" level="MAJOR" enabled="true" />
+-        <coding_rule class="RV_EXCEPTION_NOT_THROWN" level="CRITICAL" enabled="true" />
+-        <coding_rule class="RV_NEGATING_RESULT_OF_COMPARETO" level="CRITICAL" enabled="false" />
+-        <coding_rule class="RV_REM_OF_HASHCODE" level="CRITICAL" enabled="true" />
+-        <coding_rule class="RV_REM_OF_RANDOM_INT" level="CRITICAL" enabled="true" />
+-        <coding_rule class="RV_RETURN_VALUE_IGNORED" level="MINOR" enabled="true" />
+-        <coding_rule class="RV_RETURN_VALUE_IGNORED_BAD_PRACTICE" level="MAJOR" enabled="true" />
+-        <coding_rule class="RV_RETURN_VALUE_IGNORED_INFERRED" level="CRITICAL" enabled="false" />
+-        <coding_rule class="RV_RETURN_VALUE_IGNORED_NO_SIDE_EFFECT" level="MAJOR" enabled="false" />
+-        <coding_rule class="RV_RETURN_VALUE_OF_PUTIFABSENT_IGNORED" level="MAJOR" enabled="false" />
+-        <coding_rule class="RpC_REPEATED_CONDITIONAL_TEST" level="MAJOR" enabled="true" />
+-        <coding_rule class="SA_FIELD_DOUBLE_ASSIGNMENT" level="CRITICAL" enabled="true" />
+-        <coding_rule class="SA_FIELD_SELF_ASSIGNMENT" level="CRITICAL" enabled="true" />
+-        <coding_rule class="SA_FIELD_SELF_COMPARISON" level="CRITICAL" enabled="true" />
+-        <coding_rule class="SA_FIELD_SELF_COMPUTATION" level="CRITICAL" enabled="true" />
+-        <coding_rule class="SA_LOCAL_DOUBLE_ASSIGNMENT" level="CRITICAL" enabled="true" />
+-        <coding_rule class="SA_LOCAL_SELF_ASSIGNMENT" level="CRITICAL" enabled="true" />
+-        <coding_rule class="SA_LOCAL_SELF_ASSIGNMENT_INSTEAD_OF_FIELD" level="CRITICAL" enabled="false" />
+-        <coding_rule class="SA_LOCAL_SELF_COMPARISON" level="CRITICAL" enabled="true" />
+-        <coding_rule class="SA_LOCAL_SELF_COMPUTATION" level="CRITICAL" enabled="true" />
+-        <coding_rule class="SBSC_USE_STRINGBUFFER_CONCATENATION" level="CRITICAL" enabled="true" />
+-        <coding_rule class="SC_START_IN_CTOR" level="CRITICAL" enabled="true" />
+-        <coding_rule class="SE_BAD_FIELD" level="MINOR" enabled="false" />
+-        <coding_rule class="SE_BAD_FIELD_INNER_CLASS" level="MINOR" enabled="true" />
+-        <coding_rule class="SE_BAD_FIELD_STORE" level="CRITICAL" enabled="true" />
+-        <coding_rule class="SE_COMPARATOR_SHOULD_BE_SERIALIZABLE" level="MAJOR" enabled="true" />
+-        <coding_rule class="SE_INNER_CLASS" level="MAJOR" enabled="true" />
+-        <coding_rule class="SE_METHOD_MUST_BE_PRIVATE" level="MAJOR" enabled="true" />
+-        <coding_rule class="SE_NONFINAL_SERIALVERSIONID" level="CRITICAL" enabled="true" />
+-        <coding_rule class="SE_NONLONG_SERIALVERSIONID" level="MAJOR" enabled="true" />
+-        <coding_rule class="SE_NONSTATIC_SERIALVERSIONID" level="MAJOR" enabled="true" />
+-        <coding_rule class="SE_NO_SERIALVERSIONID" level="MAJOR" enabled="true" />
+-        <coding_rule class="SE_NO_SUITABLE_CONSTRUCTOR" level="MAJOR" enabled="true" />
+-        <coding_rule class="SE_NO_SUITABLE_CONSTRUCTOR_FOR_EXTERNALIZATION" level="MAJOR" enabled="true" />
+-        <coding_rule class="SE_PRIVATE_READ_RESOLVE_NOT_INHERITED" level="MAJOR" enabled="true" />
+-        <coding_rule class="SE_READ_RESOLVE_IS_STATIC" level="MAJOR" enabled="true" />
+-        <coding_rule class="SE_READ_RESOLVE_MUST_RETURN_OBJECT" level="MAJOR" enabled="true" />
+-        <coding_rule class="SE_TRANSIENT_FIELD_NOT_RESTORED" level="MAJOR" enabled="true" />
+-        <coding_rule class="SE_TRANSIENT_FIELD_OF_NONSERIALIZABLE_CLASS" level="MAJOR" enabled="true" />
+-        <coding_rule class="SF_DEAD_STORE_DUE_TO_SWITCH_FALLTHROUGH" level="MAJOR" enabled="false" />
+-        <coding_rule class="SF_DEAD_STORE_DUE_TO_SWITCH_FALLTHROUGH_TO_THROW" level="MAJOR" enabled="false" />
+-        <coding_rule class="SF_SWITCH_FALLTHROUGH" level="MAJOR" enabled="false" />
+-        <coding_rule class="SF_SWITCH_NO_DEFAULT" level="MAJOR" enabled="false" />
+-        <coding_rule class="SIC_INNER_SHOULD_BE_STATIC" level="MAJOR" enabled="true" />
+-        <coding_rule class="SIC_INNER_SHOULD_BE_STATIC_ANON" level="MAJOR" enabled="true" />
+-        <coding_rule class="SIC_INNER_SHOULD_BE_STATIC_NEEDS_THIS" level="MAJOR" enabled="true" />
+-        <coding_rule class="SIC_THREADLOCAL_DEADLY_EMBRACE" level="MAJOR" enabled="false" />
+-        <coding_rule class="SIO_SUPERFLUOUS_INSTANCEOF" level="CRITICAL" enabled="true" />
+-        <coding_rule class="SI_INSTANCE_BEFORE_FINALS_ASSIGNED" level="CRITICAL" enabled="true" />
+-        <coding_rule class="SP_SPIN_ON_FIELD" level="MAJOR" enabled="true" />
+-        <coding_rule class="SQL_BAD_PREPARED_STATEMENT_ACCESS" level="CRITICAL" enabled="true" />
+-        <coding_rule class="SQL_BAD_RESULTSET_ACCESS" level="CRITICAL" enabled="true" />
+-        <coding_rule class="SQL_NONCONSTANT_STRING_PASSED_TO_EXECUTE" level="CRITICAL" enabled="true" />
+-        <coding_rule class="SQL_PREPARED_STATEMENT_GENERATED_FROM_NONCONSTANT_STRING" level="CRITICAL" enabled="true" />
+-        <coding_rule class="SR_NOT_CHECKED" level="MAJOR" enabled="true" />
+-        <coding_rule class="SS_SHOULD_BE_STATIC" level="MAJOR" enabled="true" />
+-        <coding_rule class="STCAL_INVOKE_ON_STATIC_CALENDAR_INSTANCE" level="CRITICAL" enabled="true" />
+-        <coding_rule class="STCAL_INVOKE_ON_STATIC_DATE_FORMAT_INSTANCE" level="CRITICAL" enabled="true" />
+-        <coding_rule class="STCAL_STATIC_CALENDAR_INSTANCE" level="CRITICAL" enabled="true" />
+-        <coding_rule class="STCAL_STATIC_SIMPLE_DATE_FORMAT_INSTANCE" level="CRITICAL" enabled="true" />
+-        <coding_rule class="STI_INTERRUPTED_ON_CURRENTTHREAD" level="CRITICAL" enabled="true" />
+-        <coding_rule class="STI_INTERRUPTED_ON_UNKNOWNTHREAD" level="CRITICAL" enabled="true" />
+-        <coding_rule class="ST_WRITE_TO_STATIC_FROM_INSTANCE_METHOD" level="CRITICAL" enabled="true" />
+-        <coding_rule class="SWL_SLEEP_WITH_LOCK_HELD" level="CRITICAL" enabled="true" />
+-        <coding_rule class="SW_SWING_METHODS_INVOKED_IN_SWING_THREAD" level="MAJOR" enabled="true" />
+-        <coding_rule class="TLW_TWO_LOCK_WAIT" level="MAJOR" enabled="true" />
+-        <coding_rule class="TQ_ALWAYS_VALUE_USED_WHERE_NEVER_REQUIRED" level="CRITICAL" enabled="true" />
+-        <coding_rule class="TQ_COMPARING_VALUES_WITH_INCOMPATIBLE_TYPE_QUALIFIERS" level="CRITICAL" enabled="false" />
+-        <coding_rule class="TQ_EXPLICIT_UNKNOWN_SOURCE_VALUE_REACHES_ALWAYS_SINK" level="CRITICAL" enabled="true" />
+-        <coding_rule class="TQ_EXPLICIT_UNKNOWN_SOURCE_VALUE_REACHES_NEVER_SINK" level="CRITICAL" enabled="true" />
+-        <coding_rule class="TQ_MAYBE_SOURCE_VALUE_REACHES_ALWAYS_SINK" level="CRITICAL" enabled="true" />
+-        <coding_rule class="TQ_MAYBE_SOURCE_VALUE_REACHES_NEVER_SINK" level="CRITICAL" enabled="true" />
+-        <coding_rule class="TQ_NEVER_VALUE_USED_WHERE_ALWAYS_REQUIRED" level="CRITICAL" enabled="true" />
+-        <coding_rule class="TQ_UNKNOWN_VALUE_USED_WHERE_ALWAYS_STRICTLY_REQUIRED" level="CRITICAL" enabled="false" />
+-        <coding_rule class="UCF_USELESS_CONTROL_FLOW" level="CRITICAL" enabled="true" />
+-        <coding_rule class="UCF_USELESS_CONTROL_FLOW_NEXT_LINE" level="CRITICAL" enabled="true" />
+-        <coding_rule class="UC_USELESS_CONDITION" level="MAJOR" enabled="false" />
+-        <coding_rule class="UC_USELESS_CONDITION_TYPE" level="MAJOR" enabled="false" />
+-        <coding_rule class="UC_USELESS_OBJECT" level="MAJOR" enabled="false" />
+-        <coding_rule class="UC_USELESS_OBJECT_STACK" level="MAJOR" enabled="false" />
+-        <coding_rule class="UC_USELESS_VOID_METHOD" level="MAJOR" enabled="false" />
+-        <coding_rule class="UG_SYNC_SET_UNSYNC_GET" level="MAJOR" enabled="true" />
+-        <coding_rule class="UI_INHERITANCE_UNSAFE_GETRESOURCE" level="MAJOR" enabled="true" />
+-        <coding_rule class="UL_UNRELEASED_LOCK" level="CRITICAL" enabled="true" />
+-        <coding_rule class="UL_UNRELEASED_LOCK_EXCEPTION_PATH" level="CRITICAL" enabled="true" />
+-        <coding_rule class="UMAC_UNCALLABLE_METHOD_OF_ANONYMOUS_CLASS" level="CRITICAL" enabled="true" />
+-        <coding_rule class="UM_UNNECESSARY_MATH" level="CRITICAL" enabled="true" />
+-        <coding_rule class="UPM_UNCALLED_PRIVATE_METHOD" level="CRITICAL" enabled="true" />
+-        <coding_rule class="URF_UNREAD_FIELD" level="MAJOR" enabled="true" />
+-        <coding_rule class="URF_UNREAD_PUBLIC_OR_PROTECTED_FIELD" level="CRITICAL" enabled="false" />
+-        <coding_rule class="UR_UNINIT_READ" level="MAJOR" enabled="true" />
+-        <coding_rule class="UR_UNINIT_READ_CALLED_FROM_SUPER_CONSTRUCTOR" level="MAJOR" enabled="false" />
+-        <coding_rule class="USM_USELESS_ABSTRACT_METHOD" level="MAJOR" enabled="false" />
+-        <coding_rule class="USM_USELESS_SUBCLASS_METHOD" level="MAJOR" enabled="false" />
+-        <coding_rule class="UUF_UNUSED_FIELD" level="MAJOR" enabled="true" />
+-        <coding_rule class="UUF_UNUSED_PUBLIC_OR_PROTECTED_FIELD" level="CRITICAL" enabled="false" />
+-        <coding_rule class="UWF_FIELD_NOT_INITIALIZED_IN_CONSTRUCTOR" level="MAJOR" enabled="false" />
+-        <coding_rule class="UWF_NULL_FIELD" level="CRITICAL" enabled="true" />
+-        <coding_rule class="UWF_UNWRITTEN_FIELD" level="MAJOR" enabled="false" />
+-        <coding_rule class="UWF_UNWRITTEN_PUBLIC_OR_PROTECTED_FIELD" level="CRITICAL" enabled="false" />
+-        <coding_rule class="UW_UNCOND_WAIT" level="MAJOR" enabled="true" />
+-        <coding_rule class="VA_FORMAT_STRING_BAD_ARGUMENT" level="CRITICAL" enabled="true" />
+-        <coding_rule class="VA_FORMAT_STRING_BAD_CONVERSION" level="CRITICAL" enabled="true" />
+-        <coding_rule class="VA_FORMAT_STRING_BAD_CONVERSION_FROM_ARRAY" level="MAJOR" enabled="true" />
+-        <coding_rule class="VA_FORMAT_STRING_BAD_CONVERSION_TO_BOOLEAN" level="MAJOR" enabled="true" />
+-        <coding_rule class="VA_FORMAT_STRING_EXPECTED_MESSAGE_FORMAT_SUPPLIED" level="MAJOR" enabled="false" />
+-        <coding_rule class="VA_FORMAT_STRING_EXTRA_ARGUMENTS_PASSED" level="MAJOR" enabled="true" />
+-        <coding_rule class="VA_FORMAT_STRING_ILLEGAL" level="CRITICAL" enabled="true" />
+-        <coding_rule class="VA_FORMAT_STRING_MISSING_ARGUMENT" level="CRITICAL" enabled="true" />
+-        <coding_rule class="VA_FORMAT_STRING_NO_PREVIOUS_ARGUMENT" level="CRITICAL" enabled="true" />
+-        <coding_rule class="VA_FORMAT_STRING_USES_NEWLINE" level="CRITICAL" enabled="false" />
+-        <coding_rule class="VA_PRIMITIVE_ARRAY_PASSED_TO_OBJECT_VARARG" level="CRITICAL" enabled="true" />
+-        <coding_rule class="VO_VOLATILE_INCREMENT" level="CRITICAL" enabled="false" />
+-        <coding_rule class="VO_VOLATILE_REFERENCE_TO_ARRAY" level="MAJOR" enabled="true" />
+-        <coding_rule class="VR_UNRESOLVABLE_REFERENCE" level="MAJOR" enabled="false" />
+-        <coding_rule class="WA_AWAIT_NOT_IN_LOOP" level="CRITICAL" enabled="true" />
+-        <coding_rule class="WA_NOT_IN_LOOP" level="CRITICAL" enabled="true" />
+-        <coding_rule class="WL_USING_GETCLASS_RATHER_THAN_CLASS_LITERAL" level="CRITICAL" enabled="true" />
+-        <coding_rule class="WMI_WRONG_MAP_ITERATOR" level="CRITICAL" enabled="true" />
+-        <coding_rule class="WS_WRITEOBJECT_SYNC" level="CRITICAL" enabled="true" />
+-        <coding_rule class="XFB_XML_FACTORY_BYPASS" level="CRITICAL" enabled="true" />
+-        <coding_rule class="XSS_REQUEST_PARAMETER_TO_JSP_WRITER" level="CRITICAL" enabled="true" />
+-        <coding_rule class="XSS_REQUEST_PARAMETER_TO_SEND_ERROR" level="CRITICAL" enabled="true" />
+-        <coding_rule class="XSS_REQUEST_PARAMETER_TO_SERVLET_WRITER" level="CRITICAL" enabled="true" />
+-      </profile>
+-    </profiles>
+-    <list size="0" />
+-  </component>
+-</project>
+\ No newline at end of file
+Index: Rename/.idea/vcs.xml
+===================================================================
+--- Rename/.idea/vcs.xml	(revision a9854443682fa892bc8d32b7b94cdae3372113f1)
++++ Rename/.idea/vcs.xml	(revision a9854443682fa892bc8d32b7b94cdae3372113f1)
+@@ -1,6 +0,0 @@
+-<?xml version="1.0" encoding="UTF-8"?>
+-<project version="4">
+-  <component name="VcsDirectoryMappings">
+-    <mapping directory="$PROJECT_DIR$/.." vcs="Git" />
+-  </component>
+-</project>
+\ No newline at end of file
+Index: Rename/.idea/workspace.xml
+===================================================================
+--- Rename/.idea/workspace.xml	(revision a9854443682fa892bc8d32b7b94cdae3372113f1)
++++ Rename/.idea/workspace.xml	(revision a9854443682fa892bc8d32b7b94cdae3372113f1)
+@@ -1,110 +0,0 @@
+-<?xml version="1.0" encoding="UTF-8"?>
+-<project version="4">
+-  <component name="BranchesTreeState">
+-    <expand>
+-      <path>
+-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+-        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+-      </path>
+-      <path>
+-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+-        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+-      </path>
+-      <path>
+-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+-        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+-        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+-      </path>
+-    </expand>
+-    <select />
+-  </component>
+-  <component name="ChangeListManager">
+-    <list default="true" id="96f12d1c-ad06-4abc-bd3f-f23229923ce5" name="Default Changelist" comment="">
+-      <change afterPath="$PROJECT_DIR$/.idea/$PROJECT_FILE$" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/.idea/qaplug_profiles.xml" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/../单元测试/.idea/$PROJECT_FILE$" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/../单元测试/.idea/.gitignore" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/../单元测试/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/../单元测试/.idea/misc.xml" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/../单元测试/.idea/modules.xml" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/../单元测试/.idea/qaplug_profiles.xml" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/../单元测试/.idea/vcs.xml" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/../单元测试/.idea/单元测试.iml" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/../单元测试/1.Junit单元测试/1.Junit单元测试.iml" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/../单元测试/1.Junit单元测试/src/junit/Calculator.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/../单元测试/1.Junit单元测试/src/test/CalculatorTest.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/../单元测试/单元测试.iml" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/../思维导图/多线程.emmx" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/../.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/../反射机制/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../反射机制/.idea/modules.xml" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/../反射机制/0.1练习/src/pro.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../反射机制/0.1练习/src/pro.properties" afterDir="false" />
+-    </list>
+-    <option name="SHOW_DIALOG" value="false" />
+-    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+-    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+-    <option name="LAST_RESOLUTION" value="IGNORE" />
+-  </component>
+-  <component name="Git.Settings">
+-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+-  </component>
+-  <component name="ProjectId" id="1dkpQZLUDwjZaItUlgFpIgPZXtp" />
+-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+-  <component name="ProjectViewState">
+-    <option name="hideEmptyMiddlePackages" value="true" />
+-    <option name="showLibraryContents" value="true" />
+-  </component>
+-  <component name="PropertiesComponent">
+-    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+-    <property name="WebServerToolWindowFactoryState" value="false" />
+-    <property name="aspect.path.notification.shown" value="true" />
+-    <property name="node.js.detected.package.eslint" value="true" />
+-    <property name="node.js.detected.package.tslint" value="true" />
+-    <property name="node.js.path.for.package.eslint" value="project" />
+-    <property name="node.js.path.for.package.tslint" value="project" />
+-    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+-    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+-  </component>
+-  <component name="SvnConfiguration">
+-    <configuration />
+-  </component>
+-  <component name="TaskManager">
+-    <task active="true" id="Default" summary="Default task">
+-      <changelist id="96f12d1c-ad06-4abc-bd3f-f23229923ce5" name="Default Changelist" comment="" />
+-      <created>1592978929290</created>
+-      <option name="number" value="Default" />
+-      <option name="presentableId" value="Default" />
+-      <updated>1592978929290</updated>
+-      <workItem from="1592978937389" duration="656000" />
+-    </task>
+-    <servers />
+-  </component>
+-  <component name="TypeScriptGeneratedFilesManager">
+-    <option name="version" value="2" />
+-  </component>
+-  <component name="Vcs.Log.Tabs.Properties">
+-    <option name="TAB_STATES">
+-      <map>
+-        <entry key="MAIN">
+-          <value>
+-            <State />
+-          </value>
+-        </entry>
+-      </map>
+-    </option>
+-  </component>
+-  <component name="WindowStateProjectService">
+-    <state x="1200" y="274" key="FileChooserDialogImpl" timestamp="1592978989223">
+-      <screen x="0" y="0" width="1920" height="1040" />
+-    </state>
+-    <state x="1200" y="274" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1592978989223" />
+-    <state x="669" y="129" key="new project wizard" timestamp="1592978991037">
+-      <screen x="0" y="0" width="1920" height="1040" />
+-    </state>
+-    <state x="669" y="129" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1592978991037" />
+-  </component>
+-</project>
+\ No newline at end of file
+Index: XML/src/jsoup/JsoupLearn.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- XML/src/jsoup/JsoupLearn.java	(date 1594478039420)
++++ XML/src/jsoup/JsoupLearn.java	(date 1594478039420)
+@@ -0,0 +1,33 @@
++package jsoup;
++
++import org.jsoup.Jsoup;
++import org.jsoup.nodes.Document;
++import org.jsoup.nodes.Element;
++import org.jsoup.select.Elements;
++
++import java.io.File;
++import java.io.IOException;
++import java.util.Objects;
++
++/**
++ * @author Harlan
++ * @date 2020/7/11 22:13
++ */
++public class JsoupLearn {
++
++    public static void main(String[] args) throws IOException {
++        //1.导包(已完成)
++        //2.获取Document对象，根据xml文档获取
++        //2.1获取xml文件路径
++        String path = (Objects.requireNonNull(JsoupLearn.class.getClassLoader().getResource("student.xml"))).getPath();
++        //2.2解析xml文档，加载文档进内存，获取DOM树
++        Document document = Jsoup.parse(new File(path), "utf-8");
++        //3.获取元素对象 Element
++        Elements elements = document.getElementsByTag("name");
++        //3.1获取第一个name的Element对象
++        Element element = elements.get(0);
++        //3.2获取数据
++        String name = element.text();
++        System.out.println(name);
++    }
++}
+Index: XML/XML.iml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- XML/XML.iml	(date 1594477752429)
++++ XML/XML.iml	(date 1594477752429)
+@@ -0,0 +1,20 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<module type="JAVA_MODULE" version="4">
++  <component name="NewModuleRootManager" inherit-compiler-output="true">
++    <exclude-output />
++    <content url="file://$MODULE_DIR$/../XML">
++      <sourceFolder url="file://$MODULE_DIR$/../XML/src" isTestSource="false" />
++    </content>
++    <orderEntry type="inheritedJdk" />
++    <orderEntry type="sourceFolder" forTests="false" />
++    <orderEntry type="module-library">
++      <library>
++        <CLASSES>
++          <root url="jar://C:/JAVA/jar/jsoup/jsoup-1.13.1.jar!/" />
++        </CLASSES>
++        <JAVADOC />
++        <SOURCES />
++      </library>
++    </orderEntry>
++  </component>
++</module>
+\ No newline at end of file
+Index: XML/src/student.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- XML/src/student.xml	(date 1594476895404)
++++ XML/src/student.xml	(date 1594476895404)
+@@ -0,0 +1,18 @@
++<?xml version="1.0" encoding="UTF-8" ?>
++<students>
++    <student number="s001">
++        <name>胡号南</name>
++        <age>24</age>
++        <sex>男</sex>
++    </student>
++    <student number="s002">
++        <name>李四</name>
++        <age>27</age>
++        <sex>男</sex>
++    </student>
++    <student number="s003">
++        <name>王五</name>
++        <age>47</age>
++        <sex>男</sex>
++    </student>
++</students>
+\ No newline at end of file
+Index: .idea/modules.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/modules.xml	(revision a9854443682fa892bc8d32b7b94cdae3372113f1)
++++ .idea/modules.xml	(date 1594477752442)
+@@ -50,6 +50,7 @@
+       <module fileurl="file://$PROJECT_DIR$/.idea/Java.iml" filepath="$PROJECT_DIR$/.idea/Java.iml" />
+       <module fileurl="file://$PROJECT_DIR$/I/O流/I/O流.iml" filepath="$PROJECT_DIR$/I/O流/I/O流.iml" />
+       <module fileurl="file://$PROJECT_DIR$/WebServer/WebServer.iml" filepath="$PROJECT_DIR$/WebServer/WebServer.iml" />
++      <module fileurl="file://$PROJECT_DIR$/XML/XML.iml" filepath="$PROJECT_DIR$/XML/XML.iml" />
+       <module fileurl="file://$PROJECT_DIR$/单元测试/单元测试.iml" filepath="$PROJECT_DIR$/单元测试/单元测试.iml" />
+       <module fileurl="file://$PROJECT_DIR$/反射机制/反射机制.iml" filepath="$PROJECT_DIR$/反射机制/反射机制.iml" />
+       <module fileurl="file://$PROJECT_DIR$/多线程/多线程.iml" filepath="$PROJECT_DIR$/多线程/多线程.iml" />
+Index: .idea/codeStyles/Project.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/codeStyles/Project.xml	(date 1594476319919)
++++ .idea/codeStyles/Project.xml	(date 1594476319919)
+@@ -0,0 +1,7 @@
++<component name="ProjectCodeStyleConfiguration">
++  <code_scheme name="Project" version="173">
++    <ScalaCodeStyleSettings>
++      <option name="MULTILINE_STRING_CLOSING_QUOTES_ON_NEW_LINE" value="true" />
++    </ScalaCodeStyleSettings>
++  </code_scheme>
++</component>
+\ No newline at end of file
+Index: .idea/codeStyles/codeStyleConfig.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/codeStyles/codeStyleConfig.xml	(date 1594476319936)
++++ .idea/codeStyles/codeStyleConfig.xml	(date 1594476319936)
+@@ -0,0 +1,5 @@
++<component name="ProjectCodeStyleConfiguration">
++  <state>
++    <option name="PREFERRED_PROJECT_CODE_STYLE" value="Default" />
++  </state>
++</component>
+\ No newline at end of file
+diff --git out/production/32.文件类/file/new.txt out/production/32.文件类/file/new.txt
+deleted file mode 100644
+diff --git out/production/0.1实现ArrayList/my_arraylist/SxtArrayList.class out/production/0.1实现ArrayList/my_arraylist/SxtArrayList.class
+deleted file mode 100644
+index 20dfef492c633cbe70c4c126fc4ac84f4470c552..0000000000000000000000000000000000000000
+GIT binary patch
+literal 0
+Hc$@<O00001
+
+diff --git out/production/0.1实现ArrayList/my_arraylist/TestArrayList.class out/production/0.1实现ArrayList/my_arraylist/TestArrayList.class
+deleted file mode 100644
+index 239e344fff45f45c64548c535848bef19025571a..0000000000000000000000000000000000000000
+GIT binary patch
+literal 0
+Hc$@<O00001
+
+diff --git out/production/0.1桌球/billiards/BallGame.class out/production/0.1桌球/billiards/BallGame.class
+deleted file mode 100644
+index ffed2fba94c06a6bf75868d59f0350458f5df7cd..0000000000000000000000000000000000000000
+GIT binary patch
+literal 0
+Hc$@<O00001
+
+diff --git out/production/0.2打飞机/com/harlan/constant/Constant.class out/production/0.2打飞机/com/harlan/constant/Constant.class
+deleted file mode 100644
+index b2b094549ff74edafd7e17ddd0d13363efb4273e..0000000000000000000000000000000000000000
+GIT binary patch
+literal 0
+Hc$@<O00001
+
+diff --git out/production/0.2打飞机/com/harlan/game/Explode.class out/production/0.2打飞机/com/harlan/game/Explode.class
+deleted file mode 100644
+index cd86f2b615f2515f5bbab7283dfb0a5cd04e923a..0000000000000000000000000000000000000000
+GIT binary patch
+literal 0
+Hc$@<O00001
+
+diff --git out/production/0.2打飞机/com/harlan/game/GameUtil.class out/production/0.2打飞机/com/harlan/game/GameUtil.class
+deleted file mode 100644
+index 5ec20bebf3932599872c49c0eec1c7c0a2339f74..0000000000000000000000000000000000000000
+GIT binary patch
+literal 0
+Hc$@<O00001
+
+diff --git out/production/0.2打飞机/com/harlan/game/MyGameFrame$1.class out/production/0.2打飞机/com/harlan/game/MyGameFrame$1.class
+deleted file mode 100644
+index 62f4f569085f5a20fefbd647b0653548c8950dfb..0000000000000000000000000000000000000000
+GIT binary patch
+literal 0
+Hc$@<O00001
+
+diff --git out/production/0.2打飞机/com/harlan/game/MyGameFrame$KeyMonitor.class out/production/0.2打飞机/com/harlan/game/MyGameFrame$KeyMonitor.class
+deleted file mode 100644
+index 3cfd7d831f357bebd60404f5feab060b88d4c356..0000000000000000000000000000000000000000
+GIT binary patch
+literal 0
+Hc$@<O00001
+
+diff --git out/production/0.2打飞机/com/harlan/game/MyGameFrame$PaintThread.class out/production/0.2打飞机/com/harlan/game/MyGameFrame$PaintThread.class
+deleted file mode 100644
+index c8cd4c2c555aac139d8bf8bef65587806ded30bc..0000000000000000000000000000000000000000
+GIT binary patch
+literal 0
+Hc$@<O00001
+
+diff --git out/production/0.2打飞机/com/harlan/game/MyGameFrame.class out/production/0.2打飞机/com/harlan/game/MyGameFrame.class
+deleted file mode 100644
+index 5ced75215f31f1f366ed3cbb6a43a122800770b8..0000000000000000000000000000000000000000
+GIT binary patch
+literal 0
+Hc$@<O00001
+
+diff --git out/production/0.2打飞机/com/harlan/game/Plane.class out/production/0.2打飞机/com/harlan/game/Plane.class
+deleted file mode 100644
+index 17d7af877fda4e10f02d3519311c90a7f0f80fba..0000000000000000000000000000000000000000
+GIT binary patch
+literal 0
+Hc$@<O00001
+
+diff --git out/production/0.2打飞机/com/harlan/game/Shell.class out/production/0.2打飞机/com/harlan/game/Shell.class
+deleted file mode 100644
+index a790d6bafb2bb83e0fa5962e4f3edb0adf846cce..0000000000000000000000000000000000000000
+GIT binary patch
+literal 0
+Hc$@<O00001
+
+diff --git out/production/0.2打飞机/com/harlan/object/GameObject.class out/production/0.2打飞机/com/harlan/object/GameObject.class
+deleted file mode 100644
+index 52b7bbff7ac9c1085c86b9b36ef7c37d1304ae1c..0000000000000000000000000000000000000000
+GIT binary patch
+literal 0
+Hc$@<O00001
+
+diff --git out/production/0.2打飞机/img/explode/e1.gif out/production/0.2打飞机/img/explode/e1.gif
+deleted file mode 100644
+index 4ba0e929990a36f121f25f191075fd7ba022a578..0000000000000000000000000000000000000000
+GIT binary patch
+literal 0
+Hc$@<O00001
+
+diff --git out/production/0.2打飞机/img/explode/e2.gif out/production/0.2打飞机/img/explode/e2.gif
+deleted file mode 100644
+index f22cbb8858a8f01695f05fd553e41bdda7285e7d..0000000000000000000000000000000000000000
+GIT binary patch
+literal 0
+Hc$@<O00001
+
+diff --git out/production/0.2打飞机/img/explode/e3.gif out/production/0.2打飞机/img/explode/e3.gif
+deleted file mode 100644
+index 58c1e2a20a2dcaf2dde34f5c65bd4bfa8c6181e1..0000000000000000000000000000000000000000
+GIT binary patch
+literal 0
+Hc$@<O00001
+
+diff --git out/production/0.2打飞机/img/explode/e4.gif out/production/0.2打飞机/img/explode/e4.gif
+deleted file mode 100644
+index 981e9e22441a68031ef3f7b2f8175f51d1d4826a..0000000000000000000000000000000000000000
+GIT binary patch
+literal 0
+Hc$@<O00001
+
+diff --git out/production/0.2打飞机/img/explode/e5.gif out/production/0.2打飞机/img/explode/e5.gif
+deleted file mode 100644
+index fc93522fdb6173ecd3f2a6b49331d594f2d471ce..0000000000000000000000000000000000000000
+GIT binary patch
+literal 0
+Hc$@<O00001
+
+diff --git out/production/0.2打飞机/img/explode/e6.gif out/production/0.2打飞机/img/explode/e6.gif
+deleted file mode 100644
+index 1bba69a7e9cd81a91920dc266bc62b92fa1a042c..0000000000000000000000000000000000000000
+GIT binary patch
+literal 0
+Hc$@<O00001
+
+diff --git out/production/0.2打飞机/img/explode/e7.gif out/production/0.2打飞机/img/explode/e7.gif
+deleted file mode 100644
+index 9719061139411a86fd49a20bc312642f434159c0..0000000000000000000000000000000000000000
+GIT binary patch
+literal 0
+Hc$@<O00001
+
+diff --git out/production/0.2打飞机/img/explode/e8.gif out/production/0.2打飞机/img/explode/e8.gif
+deleted file mode 100644
+index 710d7eabf18711cf1e180ab0ad9289a0658c8b88..0000000000000000000000000000000000000000
+GIT binary patch
+literal 0
+Hc$@<O00001
+
+diff --git out/production/0.2打飞机/img/explode/e9.gif out/production/0.2打飞机/img/explode/e9.gif
+deleted file mode 100644
+index 0535c88ac8c73063841cce136acd69d9927cd30d..0000000000000000000000000000000000000000
+GIT binary patch
+literal 0
+Hc$@<O00001
+
+diff --git out/production/0.2打飞机/img/explode/e10.gif out/production/0.2打飞机/img/explode/e10.gif
+deleted file mode 100644
+index 5667574191d439b16efcc80f13b15730fae15a35..0000000000000000000000000000000000000000
+GIT binary patch
+literal 0
+Hc$@<O00001
+
+diff --git out/production/0.2打飞机/img/explode/e11.gif out/production/0.2打飞机/img/explode/e11.gif
+deleted file mode 100644
+index 7d6747c1f3d5db98b59fa285a694cf05150ce92e..0000000000000000000000000000000000000000
+GIT binary patch
+literal 0
+Hc$@<O00001
+
+diff --git out/production/0.2打飞机/img/explode/e12.gif out/production/0.2打飞机/img/explode/e12.gif
+deleted file mode 100644
+index 97f85df77b43a925e6ef20c3d95c722a4e52b446..0000000000000000000000000000000000000000
+GIT binary patch
+literal 0
+Hc$@<O00001
+
+diff --git out/production/0.2打飞机/img/explode/e13.gif out/production/0.2打飞机/img/explode/e13.gif
+deleted file mode 100644
+index 473cab19be9c2a00484de06870e30e2d481ae6cd..0000000000000000000000000000000000000000
+GIT binary patch
+literal 0
+Hc$@<O00001
+
+diff --git out/production/0.2打飞机/img/explode/e14.gif out/production/0.2打飞机/img/explode/e14.gif
+deleted file mode 100644
+index 676fa2abd3ef6531991d70760c59f2d63e51e3a4..0000000000000000000000000000000000000000
+GIT binary patch
+literal 0
+Hc$@<O00001
+
+diff --git out/production/0.2打飞机/img/explode/e15.gif out/production/0.2打飞机/img/explode/e15.gif
+deleted file mode 100644
+index d3795f8a55f600c4e0338d3ae151f0cc91b91cae..0000000000000000000000000000000000000000
+GIT binary patch
+literal 0
+Hc$@<O00001
+
+diff --git out/production/0.2打飞机/img/explode/e16.gif out/production/0.2打飞机/img/explode/e16.gif
+deleted file mode 100644
+index 4a913c39cec5f951d5951610850f4b17bcac365e..0000000000000000000000000000000000000000
+GIT binary patch
+literal 0
+Hc$@<O00001
+
+diff --git out/production/0.2打飞机/img/bg.jpg out/production/0.2打飞机/img/bg.jpg
+deleted file mode 100644
+index 1156cf3358919a4d99dc2bbe34488b1133e7e413..0000000000000000000000000000000000000000
+GIT binary patch
+literal 0
+Hc$@<O00001
+
+diff --git out/production/0.2打飞机/img/plane.png out/production/0.2打飞机/img/plane.png
+deleted file mode 100644
+index d253b84580f405ea6968e2637ef87b2a8e36e1e8..0000000000000000000000000000000000000000
+GIT binary patch
+literal 0
+Hc$@<O00001
+
+diff --git out/production/0.3日历/calendar/ViewCalendar.class out/production/0.3日历/calendar/ViewCalendar.class
+deleted file mode 100644
+index a7a1c2c4c03bbac8ae34f009e912009a589728ba..0000000000000000000000000000000000000000
+GIT binary patch
+literal 0
+Hc$@<O00001
+
+diff --git out/production/1.变量常量/constant/Constant.class out/production/1.变量常量/constant/Constant.class
+deleted file mode 100644
+index 29ca55cbf1488f7c5bd4944f8a17839e11be0641..0000000000000000000000000000000000000000
+GIT binary patch
+literal 0
+Hc$@<O00001
+
+diff --git out/production/1.变量常量/variable/Variable.class out/production/1.变量常量/variable/Variable.class
+deleted file mode 100644
+index 63658673c86494e29459737cbc0a3261d6e2f425..0000000000000000000000000000000000000000
+GIT binary patch
+literal 0
+Hc$@<O00001
+
+diff --git out/production/1.泛型/Generic.class out/production/1.泛型/Generic.class
+deleted file mode 100644
+index da508022d426401113cd85d61ec17b644b4efc15..0000000000000000000000000000000000000000
+GIT binary patch
+literal 0
+Hc$@<O00001
+
+diff --git out/production/1.泛型/MyCollection.class out/production/1.泛型/MyCollection.class
+deleted file mode 100644
+index c50e56ead029d7ba37d964b7e75e2405b02301a3..0000000000000000000000000000000000000000
+GIT binary patch
+literal 0
+Hc$@<O00001
+
+diff --git out/production/2.容器/linkedlist/TestLinked.class out/production/2.容器/linkedlist/TestLinked.class
+deleted file mode 100644
+index 77cfc3f01cb872d10d883dd366a1cc59e5646eb8..0000000000000000000000000000000000000000
+GIT binary patch
+literal 0
+Hc$@<O00001
+
+diff --git out/production/2.容器/list/TestList.class out/production/2.容器/list/TestList.class
+deleted file mode 100644
+index c6f27ff624f7620c7646a8f3abae2b8aad5889b5..0000000000000000000000000000000000000000
+GIT binary patch
+literal 0
+Hc$@<O00001
+
+diff --git out/production/2.容器/method_collection/TestCollection.class out/production/2.容器/method_collection/TestCollection.class
+deleted file mode 100644
+index 5561b53c889a4be1625682da45797c0ba7907506..0000000000000000000000000000000000000000
+GIT binary patch
+literal 0
+Hc$@<O00001
+
+diff --git out/production/2.短路运算/operator/Operator.class out/production/2.短路运算/operator/Operator.class
+deleted file mode 100644
+index bc149f1ac88e3aae7998bbe7e576d3b4d05d4ece..0000000000000000000000000000000000000000
+GIT binary patch
+literal 0
+Hc$@<O00001
+
+diff --git out/production/3.位运算/operator/Operator.class out/production/3.位运算/operator/Operator.class
+deleted file mode 100644
+index 450017312d11c7f7df988606dc45bc3f773d3393..0000000000000000000000000000000000000000
+GIT binary patch
+literal 0
+Hc$@<O00001
+
+diff --git out/production/4.条件运算符/conditionaloperator/ConditionalOperator.class out/production/4.条件运算符/conditionaloperator/ConditionalOperator.class
+deleted file mode 100644
+index 24db6ec234501725aad80ba6e30af2ac7021b026..0000000000000000000000000000000000000000
+GIT binary patch
+literal 0
+Hc$@<O00001
+
+diff --git out/production/5.键盘输入/testscanner/TestScanner.class out/production/5.键盘输入/testscanner/TestScanner.class
+deleted file mode 100644
+index b9e2b700d6dec91d1befba4dbeade0b23eafc24b..0000000000000000000000000000000000000000
+GIT binary patch
+literal 0
+Hc$@<O00001
+
+diff --git out/production/6.结构体/structure/breakAndcontinueStatement.class out/production/6.结构体/structure/breakAndcontinueStatement.class
+deleted file mode 100644
+index b8e8bf7215cfe04efbfa6fa242757702334d4f86..0000000000000000000000000000000000000000
+GIT binary patch
+literal 0
+Hc$@<O00001
+
+diff --git out/production/6.结构体/structure/ForStucture.class out/production/6.结构体/structure/ForStucture.class
+deleted file mode 100644
+index 93295d36575a76b04ced5bcd4ac3af734803bf1e..0000000000000000000000000000000000000000
+GIT binary patch
+literal 0
+Hc$@<O00001
+
+diff --git out/production/6.结构体/structure/IfStructure.class out/production/6.结构体/structure/IfStructure.class
+deleted file mode 100644
+index fa5c8d055b6997d6102a68099d9c867a7e4eaa96..0000000000000000000000000000000000000000
+GIT binary patch
+literal 0
+Hc$@<O00001
+
+diff --git out/production/6.结构体/structure/SwitchStructure.class out/production/6.结构体/structure/SwitchStructure.class
+deleted file mode 100644
+index 08aad7b9b8869e9a208898ec2b61acba6a452a8c..0000000000000000000000000000000000000000
+GIT binary patch
+literal 0
+Hc$@<O00001
+
+diff --git out/production/6.结构体/structure/WhileStucture.class out/production/6.结构体/structure/WhileStucture.class
+deleted file mode 100644
+index f53602dca02feaf0c4f5edaa6ee4d9b7e3dc03ff..0000000000000000000000000000000000000000
+GIT binary patch
+literal 0
+Hc$@<O00001
+
+diff --git out/production/7.方法/method/Method.class out/production/7.方法/method/Method.class
+deleted file mode 100644
+index d47e1a58e4900c0047fe2919178d2fbfb86f06c3..0000000000000000000000000000000000000000
+GIT binary patch
+literal 0
+Hc$@<O00001
+
+diff --git out/production/8.方法重载/overloadmethod/overLoadMethod.class out/production/8.方法重载/overloadmethod/overLoadMethod.class
+deleted file mode 100644
+index 728f793b363078155d4c1e8d1e7fb8e762a6a7ef..0000000000000000000000000000000000000000
+GIT binary patch
+literal 0
+Hc$@<O00001
+
+diff --git out/production/9.递归结构/recursive/Recursive.class out/production/9.递归结构/recursive/Recursive.class
+deleted file mode 100644
+index f6672c4bfb4757b1f225651d8d9eb6dbe356af2a..0000000000000000000000000000000000000000
+GIT binary patch
+literal 0
+Hc$@<O00001
+
+diff --git out/production/10.类的定义/definitionclass/Computer.class out/production/10.类的定义/definitionclass/Computer.class
+deleted file mode 100644
+index 7fdb1e5cd0925cc19b3c1930a70338697c031cae..0000000000000000000000000000000000000000
+GIT binary patch
+literal 0
+Hc$@<O00001
+
+diff --git out/production/10.类的定义/definitionclass/Student.class out/production/10.类的定义/definitionclass/Student.class
+deleted file mode 100644
+index d59b7d4c7910c5e90abe8d01f921b34c7a380ce6..0000000000000000000000000000000000000000
+GIT binary patch
+literal 0
+Hc$@<O00001
+
+diff --git out/production/11.构造方法/construction_method/Constructer.class out/production/11.构造方法/construction_method/Constructer.class
+deleted file mode 100644
+index e6446e131597eb809541ac81e8f12f4912927c89..0000000000000000000000000000000000000000
+GIT binary patch
+literal 0
+Hc$@<O00001
+
+diff --git out/production/11.构造方法/construction_method/Point.class out/production/11.构造方法/construction_method/Point.class
+deleted file mode 100644
+index 8972a15fb6d7c908f89d4e7484eb27237687af2e..0000000000000000000000000000000000000000
+GIT binary patch
+literal 0
+Hc$@<O00001
+
+diff --git out/production/11.构造方法/construction_method/User.class out/production/11.构造方法/construction_method/User.class
+deleted file mode 100644
+index 578de386d8da00d3ff4493b34e73cfc7f1ada567..0000000000000000000000000000000000000000
+GIT binary patch
+literal 0
+Hc$@<O00001
+
+diff --git out/production/11.构造方法/META-INF/11.构造方法.kotlin_module out/production/11.构造方法/META-INF/11.构造方法.kotlin_module
+deleted file mode 100644
+index a49347afef10a9b5f95305e1058ba36adec7d6dd..0000000000000000000000000000000000000000
+GIT binary patch
+literal 0
+Hc$@<O00001
+
+diff --git out/production/11.构造方法/test/Person.class out/production/11.构造方法/test/Person.class
+deleted file mode 100644
+index 4d75439fde1bb536fc47f9a04574b4c2bea6ff2b..0000000000000000000000000000000000000000
+GIT binary patch
+literal 0
+Hc$@<O00001
+
+diff --git out/production/11.构造方法/test/Student.class out/production/11.构造方法/test/Student.class
+deleted file mode 100644
+index b19762b1a49ecbdec0cdb4146e8d77190614e394..0000000000000000000000000000000000000000
+GIT binary patch
+literal 0
+Hc$@<O00001
+
+diff --git out/production/12.static关键字/static_keyworld/StaticKeyWords.class out/production/12.static关键字/static_keyworld/StaticKeyWords.class
+deleted file mode 100644
+index 940cc7d7351449c28178939ca118022833bfa2db..0000000000000000000000000000000000000000
+GIT binary patch
+literal 0
+Hc$@<O00001
+
+diff --git out/production/13.静态初始化块/static_code/StaticCode.class out/production/13.静态初始化块/static_code/StaticCode.class
+deleted file mode 100644
+index 2b54ed73c33d370a65b6a805ac5b71bbf955108f..0000000000000000000000000000000000000000
+GIT binary patch
+literal 0
+Hc$@<O00001
+
+diff --git out/production/14.继承和重写/person/Person.class out/production/14.继承和重写/person/Person.class
+deleted file mode 100644
+index 646dfdbf44c72d4792543a5c2902dce3295ec14d..0000000000000000000000000000000000000000
+GIT binary patch
+literal 0
+Hc$@<O00001
+
+diff --git out/production/14.继承和重写/student/Student.class out/production/14.继承和重写/student/Student.class
+deleted file mode 100644
+index 828d04a37995ed2ad2cff5f6798f697c5b7056f8..0000000000000000000000000000000000000000
+GIT binary patch
+literal 0
+Hc$@<O00001
+
+diff --git out/production/15.Object类/object_equals/TestEquals.class out/production/15.Object类/object_equals/TestEquals.class
+deleted file mode 100644
+index 750b32ca9f73f3d0daa24af4b2393cc0788564ff..0000000000000000000000000000000000000000
+GIT binary patch
+literal 0
+Hc$@<O00001
+
+diff --git out/production/15.Object类/object_equals/User.class out/production/15.Object类/object_equals/User.class
+deleted file mode 100644
+index d08f1204632844b8774749ef5d2cbee71cacdd11..0000000000000000000000000000000000000000
+GIT binary patch
+literal 0
+Hc$@<O00001
+
+diff --git out/production/15.Object类/text_object_toString/TextObjectToString.class out/production/15.Object类/text_object_toString/TextObjectToString.class
+deleted file mode 100644
+index 0fd04d71ef03fd083819d1e5e006e1e207a7060f..0000000000000000000000000000000000000000
+GIT binary patch
+literal 0
+Hc$@<O00001
+
+diff --git out/production/16.super关键字/testsuper/Child.class out/production/16.super关键字/testsuper/Child.class
+deleted file mode 100644
+index 4949b90cec8c956b2ac204c2bf4d0c6359863648..0000000000000000000000000000000000000000
+GIT binary patch
+literal 0
+Hc$@<O00001
+
+diff --git out/production/16.super关键字/testsuper/Father.class out/production/16.super关键字/testsuper/Father.class
+deleted file mode 100644
+index 42797b08a75b41e393be1ee2b85249383d8ed4fd..0000000000000000000000000000000000000000
+GIT binary patch
+literal 0
+Hc$@<O00001
+
+diff --git out/production/16.super关键字/testsuper/TestSuper.class out/production/16.super关键字/testsuper/TestSuper.class
+deleted file mode 100644
+index 357a4e6cc275c63adf01acbf13b7a28236c93bd6..0000000000000000000000000000000000000000
+GIT binary patch
+literal 0
+Hc$@<O00001
+
+diff --git out/production/17.封装/access_character/AccessCaracter.class out/production/17.封装/access_character/AccessCaracter.class
+deleted file mode 100644
+index e3c372d00fc2ea2d7c1941dca6ca6016e57b39d9..0000000000000000000000000000000000000000
+GIT binary patch
+literal 0
+Hc$@<O00001
+
+diff --git out/production/17.封装/access_character/Human.class out/production/17.封装/access_character/Human.class
+deleted file mode 100644
+index e278c85ac722b39b2b516ef0a0204f3551bfd70a..0000000000000000000000000000000000000000
+GIT binary patch
+literal 0
+Hc$@<O00001
+
+diff --git out/production/17.封装/access_character/Man.class out/production/17.封装/access_character/Man.class
+deleted file mode 100644
+index cf151bbdaf18a874a1b67236cb84c7d92f5976e5..0000000000000000000000000000000000000000
+GIT binary patch
+literal 0
+Hc$@<O00001
+
+diff --git out/production/18.多态/polymorphism/Animal.class out/production/18.多态/polymorphism/Animal.class
+deleted file mode 100644
+index 1760232914f5b0c531b86aa519260241c734ee58..0000000000000000000000000000000000000000
+GIT binary patch
+literal 0
+Hc$@<O00001
+
+diff --git out/production/18.多态/polymorphism/Cat.class out/production/18.多态/polymorphism/Cat.class
+deleted file mode 100644
+index 0626780ae7717bbe5c12e172a8244723b1904a53..0000000000000000000000000000000000000000
+GIT binary patch
+literal 0
+Hc$@<O00001
+
+diff --git out/production/18.多态/polymorphism/Dog.class out/production/18.多态/polymorphism/Dog.class
+deleted file mode 100644
+index 6ef5e5a80632283e3ca16a32c6300167aaef5681..0000000000000000000000000000000000000000
+GIT binary patch
+literal 0
+Hc$@<O00001
+
+diff --git out/production/18.多态/polymorphism/Pylym.class out/production/18.多态/polymorphism/Pylym.class
+deleted file mode 100644
+index b290ea9f00537fe6696cc389a860c1cd42ef310c..0000000000000000000000000000000000000000
+GIT binary patch
+literal 0
+Hc$@<O00001
+
+diff --git out/production/19.final关键字/final_keyword/Animal.class out/production/19.final关键字/final_keyword/Animal.class
+deleted file mode 100644
+index 8a20d0e42cbad8858278cf6c45aa19b1d1c34c45..0000000000000000000000000000000000000000
+GIT binary patch
+literal 0
+Hc$@<O00001
+
+diff --git out/production/19.final关键字/final_keyword/Cat.class out/production/19.final关键字/final_keyword/Cat.class
+deleted file mode 100644
+index 14b4203be74d280fce127d0c1fc706c4c13c41c5..0000000000000000000000000000000000000000
+GIT binary patch
+literal 0
+Hc$@<O00001
+
+diff --git out/production/19.final关键字/final_keyword/Dog.class out/production/19.final关键字/final_keyword/Dog.class
+deleted file mode 100644
+index ac88cfa8bc548fe5687e7368c3ed5802ec8fd1c6..0000000000000000000000000000000000000000
+GIT binary patch
+literal 0
+Hc$@<O00001
+
+diff --git out/production/19.final关键字/final_keyword/FinalWord.class out/production/19.final关键字/final_keyword/FinalWord.class
+deleted file mode 100644
+index 794d111294cf0166014d38ceb9bc5f858065f215..0000000000000000000000000000000000000000
+GIT binary patch
+literal 0
+Hc$@<O00001
+
+diff --git out/production/20.数组/array/Arr.class out/production/20.数组/array/Arr.class
+deleted file mode 100644
+index 8621451234b1aa4e11e94b22ef9a1c75e23403b0..0000000000000000000000000000000000000000
+GIT binary patch
+literal 0
+Hc$@<O00001
+
+diff --git out/production/20.数组/array/User.class out/production/20.数组/array/User.class
+deleted file mode 100644
+index 3ba25894ba673253cea20b69802281af0d3b8904..0000000000000000000000000000000000000000
+GIT binary patch
+literal 0
+Hc$@<O00001
+
+diff --git out/production/21.抽象方法抽象类/abstract_method_class/Child.class out/production/21.抽象方法抽象类/abstract_method_class/Child.class
+deleted file mode 100644
+index 542958ce370e201bcbef7f5801d2f97b012dc6ca..0000000000000000000000000000000000000000
+GIT binary patch
+literal 0
+Hc$@<O00001
+
+diff --git out/production/21.抽象方法抽象类/abstract_method_class/Father.class out/production/21.抽象方法抽象类/abstract_method_class/Father.class
+deleted file mode 100644
+index b8fd3eca06f0ec9b081bb29c0373114697c42d78..0000000000000000000000000000000000000000
+GIT binary patch
+literal 0
+Hc$@<O00001
+
+diff --git out/production/21.抽象方法抽象类/abstract_method_class/FatherClass.class out/production/21.抽象方法抽象类/abstract_method_class/FatherClass.class
+deleted file mode 100644
+index edcd3adb1f060941d18ae68ab638ba9edd1bc09b..0000000000000000000000000000000000000000
+GIT binary patch
+literal 0
+Hc$@<O00001
+
+diff --git out/production/22.接口/interfaceer/MyClass.class out/production/22.接口/interfaceer/MyClass.class
+deleted file mode 100644
+index fa9e7dd70871c0b5601408d2b3e65676890d2cca..0000000000000000000000000000000000000000
+GIT binary patch
+literal 0
+Hc$@<O00001
+
+diff --git out/production/22.接口/interfaceer/MyInterface.class out/production/22.接口/interfaceer/MyInterface.class
+deleted file mode 100644
+index 809d7a3c1b98a580977b380900eeadf076dbc017..0000000000000000000000000000000000000000
+GIT binary patch
+literal 0
+Hc$@<O00001
+
+diff --git out/production/22.接口/tset_interface/Angel.class out/production/22.接口/tset_interface/Angel.class
+deleted file mode 100644
+index 1c6bc5126cedb670c591d6238f00bf1789fb2262..0000000000000000000000000000000000000000
+GIT binary patch
+literal 0
+Hc$@<O00001
+
+diff --git out/production/22.接口/tset_interface/Honest.class out/production/22.接口/tset_interface/Honest.class
+deleted file mode 100644
+index a60d48a0bf3cfb45f763975fd4d1af4d99d2ab41..0000000000000000000000000000000000000000
+GIT binary patch
+literal 0
+Hc$@<O00001
+
+diff --git out/production/22.接口/tset_interface/Volant.class out/production/22.接口/tset_interface/Volant.class
+deleted file mode 100644
+index c758bee13b1e36c54b6987c8473029cb36e957b5..0000000000000000000000000000000000000000
+GIT binary patch
+literal 0
+Hc$@<O00001
+
+diff --git out/production/23.内部类/匿名内部类/Administrator$1.class out/production/23.内部类/匿名内部类/Administrator$1.class
+deleted file mode 100644
+index 164632a93c1e885b0be38a02987262eb31e45b4c..0000000000000000000000000000000000000000
+GIT binary patch
+literal 0
+Hc$@<O00001
+
+diff --git out/production/23.内部类/匿名内部类/Administrator.class out/production/23.内部类/匿名内部类/Administrator.class
+deleted file mode 100644
+index 1ab8631b6b2e88bb6f6c15bbb63455511372cc5d..0000000000000000000000000000000000000000
+GIT binary patch
+literal 0
+Hc$@<O00001
+
+diff --git out/production/23.内部类/匿名内部类/Ainterface.class out/production/23.内部类/匿名内部类/Ainterface.class
+deleted file mode 100644
+index 38d650a643e0a292223d0dabed510380fbc2b99b..0000000000000000000000000000000000000000
+GIT binary patch
+literal 0
+Hc$@<O00001
+
+diff --git out/production/23.内部类/局部内部类/LocalInnerClass$1Inner.class out/production/23.内部类/局部内部类/LocalInnerClass$1Inner.class
+deleted file mode 100644
+index 95fc47e989d73fc6400f47ec8edb37671f733061..0000000000000000000000000000000000000000
+GIT binary patch
+literal 0
+Hc$@<O00001
+
+diff --git out/production/23.内部类/局部内部类/LocalInnerClass.class out/production/23.内部类/局部内部类/LocalInnerClass.class
+deleted file mode 100644
+index 31449d9fb0b3cca2d603a83c35f3d75e9558ec19..0000000000000000000000000000000000000000
+GIT binary patch
+literal 0
+Hc$@<O00001
+
+diff --git out/production/23.内部类/静态内部类/Outter$Inner.class out/production/23.内部类/静态内部类/Outter$Inner.class
+deleted file mode 100644
+index 7e456c36ca784155662aa8546ee7c6938b47584f..0000000000000000000000000000000000000000
+GIT binary patch
+literal 0
+Hc$@<O00001
+
+diff --git out/production/23.内部类/静态内部类/Outter.class out/production/23.内部类/静态内部类/Outter.class
+deleted file mode 100644
+index 021d5b76f53d936b685b4d36a7cc7d52289ff13e..0000000000000000000000000000000000000000
+GIT binary patch
+literal 0
+Hc$@<O00001
+
+diff --git out/production/23.内部类/静态内部类/StaticInnerClass.class out/production/23.内部类/静态内部类/StaticInnerClass.class
+deleted file mode 100644
+index 752391c17661caf1c019115dad31cde689d74e27..0000000000000000000000000000000000000000
+GIT binary patch
+literal 0
+Hc$@<O00001
+
+diff --git out/production/23.内部类/非静态内部类/InnerClass.class out/production/23.内部类/非静态内部类/InnerClass.class
+deleted file mode 100644
+index b0bcc2819863ecc4225df7966672b5e554788212..0000000000000000000000000000000000000000
+GIT binary patch
+literal 0
+Hc$@<O00001
+
+diff --git out/production/23.内部类/非静态内部类/Outer$Inner.class out/production/23.内部类/非静态内部类/Outer$Inner.class
+deleted file mode 100644
+index b5c1046e3d35e43509af70b380ff2d2364147542..0000000000000000000000000000000000000000
+GIT binary patch
+literal 0
+Hc$@<O00001
+
+diff --git out/production/23.内部类/非静态内部类/Outer.class out/production/23.内部类/非静态内部类/Outer.class
+deleted file mode 100644
+index 5cee625bba28b6162406dae3fc66b7f26a4d6d75..0000000000000000000000000000000000000000
+GIT binary patch
+literal 0
+Hc$@<O00001
+
+diff --git out/production/24.String类/string_builder_buffer/TestStringBuilderBuffer.class out/production/24.String类/string_builder_buffer/TestStringBuilderBuffer.class
+deleted file mode 100644
+index c381534621ba948bc709707128282c9ad26716e7..0000000000000000000000000000000000000000
+GIT binary patch
+literal 0
+Hc$@<O00001
+
+diff --git out/production/24.String类/string_method/MethodOfString.class out/production/24.String类/string_method/MethodOfString.class
+deleted file mode 100644
+index ee5770c77c60e4907ac04eb04b4c827c89fb9976..0000000000000000000000000000000000000000
+GIT binary patch
+literal 0
+Hc$@<O00001
+
+diff --git out/production/24.String类/不可变和可变字符序列/TestString.class out/production/24.String类/不可变和可变字符序列/TestString.class
+deleted file mode 100644
+index 164a5768d808cc6e4c600808e94aabb0a30a2c33..0000000000000000000000000000000000000000
+GIT binary patch
+literal 0
+Hc$@<O00001
+
+diff --git out/production/24.String类/字符串的基本用法/LearnString.class out/production/24.String类/字符串的基本用法/LearnString.class
+deleted file mode 100644
+index adaa7fa5761d2f16b01944c1c0e80c5998d3a250..0000000000000000000000000000000000000000
+GIT binary patch
+literal 0
+Hc$@<O00001
+
+diff --git out/production/25.数组拷贝/arr_copy/ArrCopy.class out/production/25.数组拷贝/arr_copy/ArrCopy.class
+deleted file mode 100644
+index 7b2d86867b2b09a2f4d70872879e2e07c22527e0..0000000000000000000000000000000000000000
+GIT binary patch
+literal 0
+Hc$@<O00001
+
+diff --git out/production/26.Arrays工具类/arrays_tools/ArraysTools.class out/production/26.Arrays工具类/arrays_tools/ArraysTools.class
+deleted file mode 100644
+index 5f806cb16adcd441719ccafeae4631de7fc2ab9f..0000000000000000000000000000000000000000
+GIT binary patch
+literal 0
+Hc$@<O00001
+
+diff --git out/production/27.多维数组/two_dimensional_array/TwoDimensionalArray.class out/production/27.多维数组/two_dimensional_array/TwoDimensionalArray.class
+deleted file mode 100644
+index aee7cc37ae5042a2c2ca63a5f0a08063a8b86fef..0000000000000000000000000000000000000000
+GIT binary patch
+literal 0
+Hc$@<O00001
+
+diff --git out/production/28.冒泡排序/bubble_sort/BubbleSort.class out/production/28.冒泡排序/bubble_sort/BubbleSort.class
+deleted file mode 100644
+index b3b6be965b385dfed0b4b20b415e69cd05bff979..0000000000000000000000000000000000000000
+GIT binary patch
+literal 0
+Hc$@<O00001
+
+diff --git out/production/29.二分法查找/binary_search/BinarySearch.class out/production/29.二分法查找/binary_search/BinarySearch.class
+deleted file mode 100644
+index 383c0114b92ec9128e2e14f4162f913c1c5345da..0000000000000000000000000000000000000000
+GIT binary patch
+literal 0
+Hc$@<O00001
+
+diff --git out/production/30.包装类/wrapped_class/LearnInteger.class out/production/30.包装类/wrapped_class/LearnInteger.class
+deleted file mode 100644
+index 3161a306e5ba148bf2a6db1d585a909a1cfd2748..0000000000000000000000000000000000000000
+GIT binary patch
+literal 0
+Hc$@<O00001
+
+diff --git out/production/30.包装类/自动装箱和拆箱/AutoBox.class out/production/30.包装类/自动装箱和拆箱/AutoBox.class
+deleted file mode 100644
+index 8d985ad28bd961a675a2690c04d24e1d7e8926ed..0000000000000000000000000000000000000000
+GIT binary patch
+literal 0
+Hc$@<O00001
+
+diff --git out/production/31.Date日期相关类/calendar/TestCalendar.class out/production/31.Date日期相关类/calendar/TestCalendar.class
+deleted file mode 100644
+index b6d52c16bb0a7a91c566c129a0b89b3e45b072f6..0000000000000000000000000000000000000000
+GIT binary patch
+literal 0
+Hc$@<O00001
+
+diff --git out/production/31.Date日期相关类/date/TestDate.class out/production/31.Date日期相关类/date/TestDate.class
+deleted file mode 100644
+index d81a64416bdbb9136772ad5b6d078c22743d3b5b..0000000000000000000000000000000000000000
+GIT binary patch
+literal 0
+Hc$@<O00001
+
+diff --git out/production/32.文件类/file_class/RecursiveFile.class out/production/32.文件类/file_class/RecursiveFile.class
+deleted file mode 100644
+index 85079ee2e3035ee5911c6b415063cfc2e09f22a2..0000000000000000000000000000000000000000
+GIT binary patch
+literal 0
+Hc$@<O00001
+
+diff --git out/production/32.文件类/file_class/TestFile.class out/production/32.文件类/file_class/TestFile.class
+deleted file mode 100644
+index bec1f6d757833cc4fc67bc138c19baf771407e88..0000000000000000000000000000000000000000
+GIT binary patch
+literal 0
+Hc$@<O00001
+
+diff --git out/production/33.枚举/enum枚举型/Season.class out/production/33.枚举/enum枚举型/Season.class
+deleted file mode 100644
+index bed958a9e8a368413a7ec4726870afa8e7b8a2d8..0000000000000000000000000000000000000000
+GIT binary patch
+literal 0
+Hc$@<O00001
+
+diff --git out/production/33.枚举/enum枚举型/TextEnum$1.class out/production/33.枚举/enum枚举型/TextEnum$1.class
+deleted file mode 100644
+index c84c69bedfbe7990969d53d5a29269fd2fac5e5a..0000000000000000000000000000000000000000
+GIT binary patch
+literal 0
+Hc$@<O00001
+
+diff --git out/production/33.枚举/enum枚举型/TextEnum.class out/production/33.枚举/enum枚举型/TextEnum.class
+deleted file mode 100644
+index 952d800dfdcf0a5d0dc2fab89dcc7c4c3fbb472d..0000000000000000000000000000000000000000
+GIT binary patch
+literal 0
+Hc$@<O00001
+
+diff --git out/production/33.枚举/enum枚举型/Week.class out/production/33.枚举/enum枚举型/Week.class
+deleted file mode 100644
+index 0b8e7b23575a627899188edaae57456fd2e4b6a5..0000000000000000000000000000000000000000
+GIT binary patch
+literal 0
+Hc$@<O00001
+
+diff --git out/production/34.异常/checked/Checked.class out/production/34.异常/checked/Checked.class
+deleted file mode 100644
+index b8bf1d19b8fcd74cd7f7ad423390a8b249a3fe4b..0000000000000000000000000000000000000000
+GIT binary patch
+literal 0
+Hc$@<O00001
+
+diff --git out/production/34.异常/runtime/Runtime.class out/production/34.异常/runtime/Runtime.class
+deleted file mode 100644
+index 1289af5fa918f509b18eafa7c34e9cc19b34ff46..0000000000000000000000000000000000000000
+GIT binary patch
+literal 0
+Hc$@<O00001
+
+diff --git out/production/35.工厂设计模式/factory_model/Apple.class out/production/35.工厂设计模式/factory_model/Apple.class
+deleted file mode 100644
+index cee7bd3b7b8f0528c3123e2368f129c9a7531bbf..0000000000000000000000000000000000000000
+GIT binary patch
+literal 0
+Hc$@<O00001
+
+diff --git out/production/35.工厂设计模式/factory_model/Bread.class out/production/35.工厂设计模式/factory_model/Bread.class
+deleted file mode 100644
+index a24bdadb7b1786523e84837be718e6284bb4b280..0000000000000000000000000000000000000000
+GIT binary patch
+literal 0
+Hc$@<O00001
+
+diff --git out/production/35.工厂设计模式/factory_model/Factory.class out/production/35.工厂设计模式/factory_model/Factory.class
+deleted file mode 100644
+index 71cbfde93810d0ca4650b6198242205b131edf6a..0000000000000000000000000000000000000000
+GIT binary patch
+literal 0
+Hc$@<O00001
+
+diff --git out/production/35.工厂设计模式/factory_model/Food.class out/production/35.工厂设计模式/factory_model/Food.class
+deleted file mode 100644
+index 0a3706d1c4791bc06d8d0b5cb44fd001d5468037..0000000000000000000000000000000000000000
+GIT binary patch
+literal 0
+Hc$@<O00001
+
+diff --git out/production/35.工厂设计模式/factory_model/Main.class out/production/35.工厂设计模式/factory_model/Main.class
+deleted file mode 100644
+index c2c9e20ce8bf6a377f5ca198440a150fe27f6e36..0000000000000000000000000000000000000000
+GIT binary patch
+literal 0
+Hc$@<O00001
+
+diff --git out/production/Basic/helloworld/HelloWorld.class out/production/Basic/helloworld/HelloWorld.class
+deleted file mode 100644
+index 00b12aa959d80fc912468165a86f9cbccea27b4c..0000000000000000000000000000000000000000
+GIT binary patch
+literal 0
+Hc$@<O00001
+
+diff --git out/production/Basic/helloworld/TwoClass.class out/production/Basic/helloworld/TwoClass.class
+deleted file mode 100644
+index 67a5692213d996c2f08ab518268dfbdf7e787abc..0000000000000000000000000000000000000000
+GIT binary patch
+literal 0
+Hc$@<O00001
+
+diff --git Rename/.idea/$PROJECT_FILE$ Rename/.idea/$PROJECT_FILE$
+deleted file mode 100644
+index b3a63540e4862da2a8f2099d1cd33eb70ca27fb9..0000000000000000000000000000000000000000
+GIT binary patch
+literal 0
+Hc$@<O00001
+
